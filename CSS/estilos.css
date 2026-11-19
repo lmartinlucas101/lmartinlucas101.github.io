@@ -1,0 +1,174 @@
+/* ESTILOS GENERALES */
+
+body {
+    background-color: #e5dada;
+    color: #78101a;
+    font-family: Arial, sans-serif;
+}
+
+#header {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    background-color: #78101a;
+    color: white;
+    padding: 25px 50px;
+    border-radius: 40px;
+
+    h1 {
+        font-size: 32px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+}
+
+#categorias h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 20px;
+
+    background-color: #f1bcbc;
+    height: 50px;
+}
+
+.contenedor_categorias {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.boton-categorias {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    background-color: #fff5e1;
+    color: #78101a;
+    padding: 10px 20px;
+    margin: 10px;
+    border: #78101a solid 2px;
+    border-radius: 15px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+
+    font-size: 24px;
+
+
+
+    &:hover {
+        background-color: #e7858f;
+
+        font-size: 24px;
+        font-weight: 600;
+
+
+    }
+
+    width: 300px;
+    height: 100px;
+}
+
+
+/* TITULO DE LA SECCIÓN */
+
+.titulo-seccion {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    margin-top: 30px;
+}
+
+.titulo-seccion h2 {
+    color: #78101A;
+    margin: 0;
+}
+
+/* BOTÓN VOLVER */
+
+.boton-volver {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    border: 2px solid #78101A;
+    background-color: #fff5e1;
+    color: #78101A;
+    font-size: 28px;
+    cursor: pointer;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    transition: all 0.3s ease;
+}
+
+.boton-volver:hover {
+    background-color: #78101A;
+    color: white;
+}
+
+
+
+/* DOCUMENTOS */
+
+.documento {
+    background-color: white;
+    border: 1px solid #E5DAD5;
+    border-radius: 12px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+}
+
+.acciones-documento {
+    display: flex;
+    gap: 10px;
+}
+
+/* BOTÓN VER */
+
+.boton-ver {
+    background-color: #78101A;
+    color: white;
+    padding: 10px 18px;
+    border-radius: 8px;
+    text-decoration: none;
+    border: 1px solid #78101A;
+}
+
+/* BOTÓN DESCARGAR */
+
+.boton-descargar {
+    background-color: #78101A;
+    color: white;
+    padding: 10px 18px;
+    border: 1px solid #78101A;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+/* EFECTOS */
+
+.boton-ver:hover {
+    background-color: #fff5e1;
+    color: #78101A;
+}
+
+.boton-descargar:hover {
+    background-color: #fff5e1;
+    color: #78101A;
+}
