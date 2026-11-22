@@ -1,0 +1,15 @@
+TITULO: Tema 13.02 Tendinopatías: clasificación, causas y tratamiento
+
+DESCRIPCION: Lámina sobre la clasificación histopatológica de las tendinopatías, sus causas extrínsecas e intrínsecas y las opciones de tratamiento conservador, infiltraciones, otras terapias y cirugía.
+
+PALABRAS_CLAVE: tendinopatías; paratendinitis; tendinosis; colágeno; sobrecarga mecánica; factores intrínsecos; factores extrínsecos; ejercicio excéntrico; corticoides; ondas de choque; tratamiento quirúrgico.
+
+TEMAS: Tema 13. Fisiopatología tendinosa y sistemas de deslizamiento.
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Paratendinitis; tendinosis; paratendinitis con tendinosis; tendinopatías crónicas.
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, pp. 89–90.

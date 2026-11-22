@@ -1,0 +1,15 @@
+TITULO: Tema 07.01 Anatomofisiología articular
+
+DESCRIPCION: Lámina didáctica sobre la anatomía y fisiología de las articulaciones, con especial atención a la articulación sinovial. Describe sus elementos, la clasificación de las articulaciones, la estructura y composición de la cápsula y los ligamentos, la membrana sinovial y los tipos de sinoviocitos. Resume las características y funciones del líquido sinovial, la organización y propiedades del cartílago articular, las estructuras intraarticulares y los principios biomecánicos de las leyes de Hueter-Volkmann y Wolff.
+
+PALABRAS_CLAVE: articulaciones; anatomía articular; fisiología articular; articulación sinovial; sinartrosis; anfiartrosis; diartrosis; sindesmosis; sincondrosis; sínfisis; cartílago hialino; menisco; labrum; cavidad articular; líquido sinovial; membrana sinovial; sinoviocitos; cápsula articular; ligamentos; entesis; cartílago articular; condrocitos; almohadillas adiposas; presión intraarticular; biomecánica; ley de Hueter-Volkmann; ley de Wolff
+
+TEMAS: Tema 6
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: no se describen patologías específicas
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, pp. 48–53

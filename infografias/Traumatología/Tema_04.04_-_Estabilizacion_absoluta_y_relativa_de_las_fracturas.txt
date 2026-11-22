@@ -1,0 +1,15 @@
+TITULO: Tema 04.04 Estabilización absoluta y relativa de las fracturas
+
+DESCRIPCION: Lámina didáctica sobre los principios de estabilización absoluta (por compresión) y estabilización relativa de las fracturas. Explica sus diferencias según la deformación en el foco de fractura, el tipo de reducción, las indicaciones y el material empleado. Describe la compresión estática mediante placas DCP/LC-DCP y tornillos de compresión interfragmentaria, y la compresión dinámica mediante cerclaje o banda de tensión y placa-tornillo deslizante. Resume los sistemas bloqueados —clavo intramedular bloqueado, placa puente y placas LCP—, la técnica MIPO, el fijador externo y los sistemas no bloqueados, como el yeso, la tracción continua y el enclavado flexible.
+
+PALABRAS_CLAVE: estabilización absoluta; estabilización relativa; compresión; deformación del foco de fractura; reducción anatómica; reducción funcional; compresión estática; compresión dinámica; placa DCP; placa LC-DCP; tornillo de compresión interfragmentaria; cerclaje; banda de tensión; placa-tornillo deslizante; clavo intramedular bloqueado; placa puente; placa LCP; técnica MIPO; fijador externo; yeso; tracción continua; enclavado flexible
+
+TEMAS: Tema 4. Tratamiento de las fracturas; Estabilización absoluta; Estabilización relativa; Compresión estática; Compresión dinámica; Sistemas bloqueados; Clavo intramedular bloqueado; Placa puente; Placas LCP; Técnica MIPO; Fijador externo; Sistemas no bloqueados
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Fracturas articulares; fracturas de antebrazo en el adulto; fracturas diafisarias; fracturas conminutas; fracturas abiertas; fracturas pélvicas; fracturas de rótula; fracturas de olécranon; fracturas del fémur proximal
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, pp. 27–29

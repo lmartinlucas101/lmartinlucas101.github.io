@@ -1,0 +1,15 @@
+TITULO: Tema 03.06 Diagnóstico de las fracturas: pruebas de imagen
+
+DESCRIPCION: Lámina didáctica sobre las pruebas de imagen utilizadas en el diagnóstico de las fracturas. Describe la radiografía como prueba inicial y su realización en dos proyecciones con estudio de articulación a articulación. Resume las indicaciones de la tomografía computarizada (TC), la resonancia magnética (RM) y la ecografía. Incluye la pista documental sobre la progresión de una fractura puntiforme tipo I a tipo II tras un traumatismo de alta energía.
+
+PALABRAS_CLAVE: diagnóstico de fracturas; pruebas de imagen; radiografía; dos proyecciones; articulación a articulación; tomografía computarizada; TC; fracturas epifisarias articulares; fracturas vertebrales; politraumatismo; resonancia magnética; RM; fracturas por estrés; fracturas vertebrales agudas; fracturas vertebrales crónicas; lesiones capsuloligamentosas; ecografía; fracturas epifisarias infantiles; fractura tipo I; fractura tipo II
+
+TEMAS: Tema 3. Estudio general de las fracturas; Diagnóstico de las fracturas; Pruebas de imagen; Radiografía; Tomografía computarizada; Resonancia magnética; Ecografía
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: No se describen patologías específicas
+
+CURSO: cuarto
+
+FUENTE: generado IA

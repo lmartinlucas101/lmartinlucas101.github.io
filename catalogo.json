@@ -1,0 +1,2072 @@
+[
+    {
+        "nombre": "Cardiología",
+        "documentos": []
+    },
+    {
+        "nombre": "Infecciosas",
+        "documentos": [
+            {
+                "nombre": "Atlas infografias Infecciosas.pdf",
+                "ruta": "infografias/Infecciosas/Atlas infografias Infecciosas.pdf",
+                "metadatos": {
+                    "TITULO": "Atlas de Enfermedades Infecciosas y Patología Autoinmune",
+                    "DESCRIPCION": "Atlas visual de repaso médico organizado en láminas temáticas, con esquemas e ilustraciones sobre enfermedades infecciosas, sepsis, bacteriemia, fiebre, infecciones por localización, microorganismos, enfermedades víricas, infecciones oportunistas e inmunodeficiencias. Incluye también patología autoinmune, vasculitis y enfermedades reumatológicas. Presenta definiciones, etiología, manifestaciones clínicas, diagnóstico, tratamiento y datos clave para el examen MIR.",
+                    "PALABRAS_CLAVE": [
+                        "enfermedades infecciosas",
+                        "atlas médico",
+                        "MIR",
+                        "sepsis",
+                        "bacteriemia",
+                        "shock séptico",
+                        "endocarditis",
+                        "infecciones respiratorias",
+                        "tuberculosis",
+                        "diarrea infecciosa",
+                        "infecciones gastrointestinales",
+                        "infecciones urinarias",
+                        "meningitis",
+                        "encefalitis",
+                        "absceso cerebral",
+                        "zoonosis",
+                        "enfermedades vectoriales",
+                        "virus",
+                        "VIH",
+                        "infecciones oportunistas",
+                        "inmunodeficiencias",
+                        "candidiasis",
+                        "aspergilosis",
+                        "criptococosis",
+                        "enfermedades autoinmunes",
+                        "lupus",
+                        "síndrome antifosfolípido",
+                        "artritis reumatoide",
+                        "vasculitis",
+                        "esclerosis sistémica",
+                        "espondiloartritis",
+                        "osteoporosis",
+                        "fibromialgia."
+                    ],
+                    "TEMAS": [
+                        "Todos",
+                        "Sepsis",
+                        "bacteriemia",
+                        "fiebre",
+                        "hipertermia",
+                        "endocarditis",
+                        "dispositivos",
+                        "respiratorias",
+                        "tuberculosis",
+                        "diarreas infecciosas",
+                        "colitis",
+                        "infecciones intraabdominales",
+                        "infecciones urinarias",
+                        "infecciones del sistema nervioso central",
+                        "zoonosis",
+                        "enfermedades transmitidas por vectores",
+                        "infecciones víricas",
+                        "VIH y enfermedades oportunistas",
+                        "inmunodeficiencias",
+                        "micosis invasivas",
+                        "artritis y enfermedades autoinmunes",
+                        "vasculitis",
+                        "lupus y síndrome antifosfolípido",
+                        "esclerosis sistémica y espondiloartritis",
+                        "osteoporosis y fibromialgia."
+                    ],
+                    "TIPO_DOCUMENTO": "láminas de estudio.",
+                    "PATOLOGIAS": [
+                        "Sepsis",
+                        "shock séptico",
+                        "shock tóxico",
+                        "bacteriemia",
+                        "endocarditis infecciosa",
+                        "infecciones respiratorias",
+                        "neumonía",
+                        "tuberculosis",
+                        "cólera",
+                        "fiebre tifoidea",
+                        "colitis por Clostridioides difficile",
+                        "peritonitis",
+                        "colangitis",
+                        "colecistitis",
+                        "pancreatitis",
+                        "absceso intraabdominal",
+                        "cistitis",
+                        "pielonefritis",
+                        "prostatitis",
+                        "meningitis",
+                        "encefalitis",
+                        "absceso cerebral",
+                        "fiebre botonosa mediterránea",
+                        "tifus",
+                        "borreliosis de Lyme",
+                        "tularemia",
+                        "peste",
+                        "brucelosis",
+                        "leptospirosis",
+                        "carbunco",
+                        "actinomicosis",
+                        "infecciones por herpesvirus",
+                        "citomegalovirus",
+                        "VIH",
+                        "dengue",
+                        "zika",
+                        "ébola",
+                        "candidiasis",
+                        "criptococosis",
+                        "aspergilosis",
+                        "artritis reumatoide",
+                        "síndrome de Sjögren",
+                        "dermatomiositis",
+                        "polimiositis",
+                        "vasculitis",
+                        "enfermedad de Behçet",
+                        "lupus eritematoso sistémico",
+                        "síndrome antifosfolípido",
+                        "esclerosis sistémica",
+                        "espondiloartritis",
+                        "artritis psoriásica",
+                        "osteoporosis y fibromialgia."
+                    ],
+                    "CURSO": "tercero",
+                    "FUENTE": "Generado IA"
+                }
+            },
+            {
+                "nombre": "Infecciosas.pdf",
+                "ruta": "infografias/Infecciosas/Infecciosas.pdf",
+                "metadatos": {
+                    "TITULO": "Enfermedades infecciosas",
+                    "DESCRIPCION": "Compendio de apuntes de enfermedades infecciosas que aborda microbiología, fisiología bacteriana, diagnóstico microbiológico, tratamiento antimicrobiano y mecanismos de resistencia. Incluye el estudio de infecciones por diferentes localizaciones, sepsis, bacteriemia, fiebre e inmunodeficiencias.",
+                    "PALABRAS_CLAVE": [
+                        "enfermedades infecciosas",
+                        "microbiología",
+                        "bacterias",
+                        "virus",
+                        "hongos",
+                        "parásitos",
+                        "grampositivos",
+                        "gramnegativos",
+                        "antibióticos",
+                        "antibioterapia",
+                        "resistencia antimicrobiana",
+                        "diagnóstico microbiológico",
+                        "cultivos",
+                        "PCR",
+                        "sepsis",
+                        "bacteriemia",
+                        "fiebre",
+                        "inmunodeficiencias",
+                        "infecciones hospitalarias."
+                    ],
+                    "TEMAS": [
+                        "Todos",
+                        "Microbiología",
+                        "bacteriología",
+                        "diagnóstico microbiológico",
+                        "antibioterapia",
+                        "farmacología antimicrobiana",
+                        "resistencias bacterianas",
+                        "infecciones endovasculares",
+                        "infecciones respiratorias",
+                        "infecciones urinarias",
+                        "infecciones del sistema nervioso central",
+                        "sepsis",
+                        "fiebre de origen desconocido",
+                        "inmunología e inmunodeficiencias."
+                    ],
+                    "TIPO_DOCUMENTO": "Apuntes",
+                    "PATOLOGIAS": [
+                        "Endocarditis infecciosa",
+                        "bacteriemia",
+                        "sepsis",
+                        "shock séptico",
+                        "neumonía",
+                        "bronquitis",
+                        "faringoamigdalitis",
+                        "sinusitis",
+                        "infección del tracto urinario",
+                        "pielonefritis",
+                        "prostatitis",
+                        "meningitis",
+                        "absceso cerebral",
+                        "tuberculosis",
+                        "fiebre de origen desconocido",
+                        "infecciones por microorganismos multirresistentes e inmunodeficiencias primarias."
+                    ],
+                    "CURSO": "tercero",
+                    "FUENTE": "wuolah"
+                }
+            }
+        ]
+    },
+    {
+        "nombre": "Nefrología",
+        "documentos": []
+    },
+    {
+        "nombre": "Traumatología",
+        "documentos": [
+            {
+                "nombre": "Tema_01.01_-_Fisiopatologia_Osea_Funciones_y_Composicion.png",
+                "ruta": "infografias/Traumatología/Tema_01.01_-_Fisiopatologia_Osea_Funciones_y_Composicion.png",
+                "metadatos": {
+                    "TITULO": "Tema 01.01 Fisiopatología ósea: funciones y composición del hueso",
+                    "DESCRIPCION": "Lámina didáctica sobre las funciones mecánicas y biológicas del hueso y su composición. Resume la función protectora, de sostén y dinámica del esqueleto, así como el depósito de minerales, la homeostasis del calcio y la hematopoyesis en la médula ósea roja. Explica la composición de la matriz ósea: fracción orgánica (25%), fracción inorgánica (70%) y agua (5%). Incluye el papel del colágeno tipo I en la resistencia a tracción y tensión, y del fosfato cálcico en la resistencia a compresión.",
+                    "PALABRAS_CLAVE": [
+                        "fisiopatología ósea",
+                        "funciones del hueso",
+                        "composición del hueso",
+                        "hueso esponjoso",
+                        "hueso cortical",
+                        "médula ósea roja",
+                        "matriz ósea",
+                        "fracción orgánica",
+                        "fracción inorgánica",
+                        "colágeno tipo I",
+                        "fosfato cálcico",
+                        "hidroxiapatita",
+                        "aposición-resorción",
+                        "modelación-remodelación",
+                        "homeostasis del calcio",
+                        "hematopoyesis."
+                    ],
+                    "TEMAS": [
+                        "Tema 1. Fisiopatología del tejido óseo",
+                        "1. Funciones del hueso",
+                        "2. Composición del hueso",
+                        "2.1. Matriz ósea: fracción orgánica",
+                        "2.2. Matriz ósea: fracción inorgánica."
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "No se describen patologías específicas."
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_01.02_-_Celulas_Oseas_y_Remodelado_Oseo.png",
+                "ruta": "infografias/Traumatología/Tema_01.02_-_Celulas_Oseas_y_Remodelado_Oseo.png",
+                "metadatos": {
+                    "TITULO": "Tema 01.02 Células óseas y remodelado óseo",
+                    "DESCRIPCION": "Lámina didáctica sobre las células del tejido óseo y el proceso de remodelación. Describe la línea osteoformadora, formada por células osteoprogenitoras, osteoblastos y osteocitos, y la línea osteodestructora, representada por los osteoclastos. Resume la síntesis de osteoide y la regulación de su mineralización por los osteoblastos, la función de mantenimiento y regulación metabólica de los osteocitos, y la resorción ósea realizada por los osteoclastos mediante acidificación y degradación de la matriz. Incluye la regulación de la actividad osteoclástica por RANK-L, calcitonina y bifosfonatos, así como las fases del ciclo de remodelado: resorción, formación, mineralización y hueso remodelado. Expone el equilibrio continuo entre formación y resorción ósea.",
+                    "PALABRAS_CLAVE": [
+                        "células óseas",
+                        "células osteoprogenitoras",
+                        "línea osteoformadora",
+                        "línea osteodestructora",
+                        "osteoblastos",
+                        "osteocitos",
+                        "osteoclastos",
+                        "osteoide",
+                        "mineralización",
+                        "resorción ósea",
+                        "lagunas de Howship",
+                        "RANK-L",
+                        "calcitonina",
+                        "bifosfonatos",
+                        "remodelado óseo",
+                        "modelado óseo",
+                        "formación ósea",
+                        "matriz mineralizada",
+                        "metabolismo óseo."
+                    ],
+                    "TEMAS": [
+                        "Tema 1. Fisiopatología del tejido óseo",
+                        "2.3. Componente celular",
+                        "8. Regeneración ósea",
+                        "8.1. Modelamiento y remodelamiento",
+                        "A) Regeneración ósea adaptativa",
+                        "B) Remodelación ósea",
+                        "Factores que influyen en la remodelación."
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "No se describen patologías específicas."
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_01.03_-_Tipos_de_Tejido_Oseo.png",
+                "ruta": "infografias/Traumatología/Tema_01.03_-_Tipos_de_Tejido_Oseo.png",
+                "metadatos": {
+                    "TITULO": "Tema 01.03 Tipos de tejido óseo",
+                    "DESCRIPCION": "Lámina didáctica sobre la organización microscópica y macroscópica del tejido óseo. En la clasificación microscópica compara el hueso fibrilar o primitivo, con colágeno grueso y desorganizado, y el hueso laminar o maduro, organizado en láminas y osteonas. En la clasificación macroscópica diferencia el hueso esponjoso o trabecular, que representa aproximadamente el 20% de la masa ósea y presenta vascularización y recambio elevados, del hueso compacto o cortical, que representa aproximadamente el 80%, presenta sistema haversiano y menor recambio. También identifica la distribución de estos tejidos en epífisis, metáfisis y diáfisis.",
+                    "PALABRAS_CLAVE": [
+                        "tejido óseo",
+                        "hueso fibrilar",
+                        "hueso primitivo",
+                        "hueso laminar",
+                        "hueso maduro",
+                        "osteonas",
+                        "sistema de Havers",
+                        "láminas concéntricas",
+                        "hueso esponjoso",
+                        "hueso trabecular",
+                        "hueso compacto",
+                        "hueso cortical",
+                        "recambio óseo",
+                        "vascularización ósea",
+                        "epífisis",
+                        "metáfisis",
+                        "diáfisis",
+                        "anisotropía"
+                    ],
+                    "TEMAS": [
+                        "Tema 1. Fisiopatología del tejido óseo",
+                        "3. Tipos de tejido óseo",
+                        "3.1. Microscópicamente",
+                        "3.2. Macroscópicamente",
+                        "4. Partes del hueso"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "No se describen patologías específicas"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_01.04_-_Necrosis_Osea_y_Osteocondrosis.png",
+                "ruta": "infografias/Traumatología/Tema_01.04_-_Necrosis_Osea_y_Osteocondrosis.png",
+                "metadatos": {
+                    "TITULO": "Tema 01.04 Necrosis ósea y osteocondrosis",
+                    "DESCRIPCION": "Lámina didáctica sobre los conceptos generales, el mecanismo y las localizaciones de la necrosis ósea y la osteocondrosis. Describe la osteonecrosis como muerte del tejido óseo y de la médula ósea por causa isquémica, y diferencia las osteonecrosis disecantes u osteocondritis disecantes por la afectación del hueso subcondral y del cartílago articular epifisario, con potencial degenerativo y posibilidad de cuerpos libres articulares. Resume la interrupción del flujo sanguíneo, la isquemia y la necrosis, y presenta como localizaciones citadas la cabeza femoral, el escafoides tarsiano y la cabeza del segundo metatarsiano.",
+                    "PALABRAS_CLAVE": [
+                        "necrosis ósea",
+                        "osteonecrosis",
+                        "necrosis avascular",
+                        "necrosis aséptica",
+                        "infarto óseo",
+                        "isquemia ósea",
+                        "osteocondrosis",
+                        "osteocondritis disecante",
+                        "hueso subcondral",
+                        "cartílago articular",
+                        "cuerpos libres articulares",
+                        "cabeza femoral",
+                        "escafoides tarsiano",
+                        "cabeza del segundo metatarsiano",
+                        "Legg-Calvé-Perthes",
+                        "Köhler I",
+                        "Freiberg",
+                        "Köhler II"
+                    ],
+                    "TEMAS": [
+                        "Tema 1. Fisiopatología del tejido óseo",
+                        "9. Necrosis óseas. Relación temática complementaria: Tema 12. Necrosis ósea avascular"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Enfermedad de Legg-Calvé-Perthes",
+                        "Enfermedad de Köhler I",
+                        "Enfermedad de Freiberg (Köhler II)"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_02.01_-_Osteomielitis_Aguda_Hematogena_Etiologia_y_Etiopatogenia.png",
+                "ruta": "infografias/Traumatología/Tema_02.01_-_Osteomielitis_Aguda_Hematogena_Etiologia_y_Etiopatogenia.png",
+                "metadatos": {
+                    "TITULO": "Tema 02.01 Osteomielitis aguda hematógena: etiología y etiopatogenia",
+                    "DESCRIPCION": "Lámina didáctica sobre la osteomielitis y, en particular, la forma aguda hematógena. Incluye la definición y clasificación según vía de infección, tiempo de evolución y respuesta inflamatoria; la epidemiología y las localizaciones habituales; los factores predisponentes; los agentes etiológicos y su asociación con grupos de edad y condiciones clínicas; y la secuencia etiopatogénica en tres fases: vascular, de desarrollo y de difusión. Resume también la evolución natural, con posibilidad de abscesos, secuestro óseo e involucro.",
+                    "PALABRAS_CLAVE": [
+                        "osteomielitis",
+                        "osteomielitis aguda hematógena",
+                        "osteomielitis crónica",
+                        "infección ósea",
+                        "infección hematógena",
+                        "infección por contigüidad",
+                        "contaminación directa",
+                        "etiología bacteriana",
+                        "Staphylococcus aureus",
+                        "bacteriemia",
+                        "metáfisis",
+                        "huesos largos",
+                        "absceso subperióstico",
+                        "secuestro óseo",
+                        "involucro",
+                        "necrosis ósea",
+                        "espondilodiscitis",
+                        "osteomielitis vertebral",
+                        "inmunodepresión",
+                        "drepanocitosis",
+                        "Salmonella",
+                        "Pseudomonas aeruginosa",
+                        "Serratia",
+                        "Escherichia coli"
+                    ],
+                    "TEMAS": [
+                        "Tema 2. Infecciones óseas inespecíficas",
+                        "Osteomielitis",
+                        "1. Clasificación",
+                        "2. Epidemiología",
+                        "3. Etiología",
+                        "4. Etiopatogenia"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Osteomielitis aguda hematógena",
+                        "Osteomielitis crónica",
+                        "Espondilodiscitis"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_02.02_-_Osteomielitis_Aguda_Hematogena_Clinica_y_Diagnostico.png",
+                "ruta": "infografias/Traumatología/Tema_02.02_-_Osteomielitis_Aguda_Hematogena_Clinica_y_Diagnostico.png",
+                "metadatos": {
+                    "TITULO": "Tema 02.02 Osteomielitis aguda hematógena: clínica y diagnóstico",
+                    "DESCRIPCION": "Lámina didáctica sobre la presentación clínica y el diagnóstico de la osteomielitis aguda hematógena. Resume el inicio brusco, la fiebre alta, el dolor inflamatorio persistente y los signos locales, así como las particularidades en recién nacidos y lactantes. Describe los hallazgos de laboratorio, incluidos VSG, leucocitosis, lipemia y lipuria, PCR, hemocultivos y estudio bacteriológico e histopatológico por punción-aspiración. Expone la cronología de los cambios radiológicos y las pruebas de imagen, con la resonancia magnética como técnica de elección, además de los criterios de certeza diagnóstica, el diagnóstico diferencial y las complicaciones.",
+                    "PALABRAS_CLAVE": [
+                        "osteomielitis aguda hematógena",
+                        "clínica",
+                        "fiebre",
+                        "dolor óseo",
+                        "tumefacción",
+                        "eritema",
+                        "VSG",
+                        "leucocitosis",
+                        "proteína C reactiva",
+                        "PCR",
+                        "hemocultivo",
+                        "punción-aspiración",
+                        "biopsia ósea",
+                        "tinción de Gram",
+                        "radiografía",
+                        "resonancia magnética",
+                        "tomografía computarizada",
+                        "gammagrafía ósea",
+                        "ecografía",
+                        "secuestro óseo",
+                        "absceso subperióstico",
+                        "involucro",
+                        "diagnóstico diferencial",
+                        "complicaciones"
+                    ],
+                    "TEMAS": [
+                        "Tema 2. Infecciones óseas inespecíficas",
+                        "Osteomielitis",
+                        "2.5. Clínica",
+                        "2.6. Diagnóstico de laboratorio",
+                        "2.7. Diagnóstico por imagen",
+                        "2.8. Criterios diagnósticos",
+                        "2.9. Diagnóstico diferencial",
+                        "2.10. Complicaciones"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Osteomielitis aguda hematógena",
+                        "Artritis séptica",
+                        "Fiebre reumática",
+                        "Artritis reumatoide",
+                        "Sarcoma de Ewing",
+                        "Artritis bacteriana",
+                        "Sinovitis transitoria de cadera",
+                        "Carcinoma epidermoide"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_02.03_-_Osteomielitis_Aguda_Hematogena_Tratamiento_y_Complicaciones.png",
+                "ruta": "infografias/Traumatología/Tema_02.03_-_Osteomielitis_Aguda_Hematogena_Tratamiento_y_Complicaciones.png",
+                "metadatos": {
+                    "TITULO": "Tema 02.03 Osteomielitis aguda hematógena: tratamiento y complicaciones",
+                    "DESCRIPCION": "Lámina didáctica sobre el tratamiento médico, quirúrgico y físico de la osteomielitis aguda hematógena, su pronóstico y sus complicaciones. Resume la antibioterapia precoz tras la toma de cultivos, el tratamiento secuencial y prolongado, las indicaciones y técnicas del tratamiento quirúrgico, y las medidas físicas. Describe las complicaciones infecciosas y articulares, las alteraciones del crecimiento fisario, las fracturas, la cronificación y la trombosis venosa profunda. Incluye el absceso de Brodie como forma específica de osteomielitis subaguda, con localización tibial predominante, diagnóstico mediante biopsia y tratamiento con curetaje y antibióticos.",
+                    "PALABRAS_CLAVE": [
+                        "osteomielitis aguda hematógena",
+                        "tratamiento antibiótico",
+                        "antibioterapia",
+                        "antibiograma",
+                        "hemocultivo",
+                        "proteína C reactiva",
+                        "VSG",
+                        "tratamiento quirúrgico",
+                        "drenaje de absceso",
+                        "desbridamiento",
+                        "perforaciones corticales",
+                        "inmovilización",
+                        "pronóstico",
+                        "cronificación",
+                        "absceso de Brodie",
+                        "osteomielitis subaguda",
+                        "secuestro óseo",
+                        "involucro",
+                        "dismetría",
+                        "hipercrecimiento",
+                        "acortamiento",
+                        "lesión fisaria",
+                        "artritis séptica",
+                        "fractura",
+                        "fístula",
+                        "úlcera de Marjolin",
+                        "trombosis venosa profunda",
+                        "curetaje",
+                        "biopsia ósea"
+                    ],
+                    "TEMAS": [
+                        "Tema 2. Infecciones óseas inespecíficas",
+                        "Osteomielitis",
+                        "2.10. Complicaciones",
+                        "2.11. Tratamiento médico",
+                        "2.12. Tratamiento quirúrgico",
+                        "2.13. Tratamiento con medidas físicas",
+                        "Pronóstico",
+                        "Absceso de Brodie"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Osteomielitis aguda hematógena",
+                        "Osteomielitis subaguda",
+                        "Absceso de Brodie",
+                        "Artritis séptica",
+                        "Trombosis venosa profunda",
+                        "Carcinoma epidermoide"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_02.04_-_Osteomielitis_Cronica.png",
+                "ruta": "infografias/Traumatología/Tema_02.04_-_Osteomielitis_Cronica.png",
+                "metadatos": {
+                    "TITULO": "Tema 02.04 Osteomielitis crónica",
+                    "DESCRIPCION": "Lámina didáctica sobre la osteomielitis crónica, definida como un proceso inflamatorio infeccioso del hueso y la médula ósea de más de 6 semanas de evolución. Resume sus causas, incluida la evolución desfavorable de una osteomielitis aguda, la contaminación directa y la infección por contigüidad; la clínica prolongada con quiescencia y reagudizaciones; la etiología microbiológica, con predominio de Staphylococcus aureus y mayor frecuencia de infecciones polimicrobianas, gramnegativas y anaerobias; y los hallazgos anatomopatológicos característicos, como secuestro, involucro, cloaca, fístula y esclerosis periférica. Incluye las pruebas de imagen, el diagnóstico, el tratamiento antibiótico prolongado y quirúrgico, y el pronóstico.",
+                    "PALABRAS_CLAVE": [
+                        "osteomielitis crónica",
+                        "infección ósea",
+                        "infección de médula ósea",
+                        "osteomielitis postraumática",
+                        "infección por contigüidad",
+                        "contaminación directa",
+                        "Staphylococcus aureus",
+                        "infección polimicrobiana",
+                        "bacterias gramnegativas",
+                        "anaerobios",
+                        "biofilm",
+                        "secuestro óseo",
+                        "involucro",
+                        "cloaca",
+                        "fístula ósea",
+                        "esclerosis ósea",
+                        "radiografía",
+                        "tomografía computarizada",
+                        "resonancia magnética",
+                        "cultivo óseo",
+                        "antibiograma",
+                        "biopsia ósea",
+                        "desbridamiento",
+                        "exéresis de secuestro",
+                        "antibioterapia prolongada",
+                        "cemento de PMMA",
+                        "reconstrucción ósea",
+                        "autoinjerto",
+                        "aloinjerto",
+                        "osteogénesis por distracción"
+                    ],
+                    "TEMAS": [
+                        "Tema 2. Infecciones óseas inespecíficas",
+                        "1. Clasificación",
+                        "3. Osteomielitis crónica",
+                        "3.1. Clínica",
+                        "3.2. Anatomía patológica",
+                        "3.3. Tratamiento"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Osteomielitis crónica"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_02.05_-_Infeccion_de_Protesis_y_Material_de_Osteosintesis.png",
+                "ruta": "infografias/Traumatología/Tema_02.05_-_Infeccion_de_Protesis_y_Material_de_Osteosintesis.png",
+                "metadatos": {
+                    "TITULO": "Tema 02.05 Infección de prótesis y material de osteosíntesis",
+                    "DESCRIPCION": "Lámina didáctica sobre la infección osteoarticular relacionada con implantes ortopédicos, como prótesis articulares y material de osteosíntesis. Expone la definición y la asociación con la formación de biofilm, la epidemiología y los factores de riesgo, los principales agentes microbiológicos y el diagnóstico clínico, analítico, por imagen y mediante confirmación microbiológica. Resume el tratamiento combinado con cirugía y antibioterapia, incluyendo el desbridamiento con retención del implante, el recambio en uno o dos tiempos y la retirada definitiva en casos seleccionados.",
+                    "PALABRAS_CLAVE": [
+                        "infección de prótesis",
+                        "infección periprotésica",
+                        "infección de material de osteosíntesis",
+                        "implante ortopédico",
+                        "biofilm",
+                        "Staphylococcus aureus",
+                        "estafilococos coagulasa negativos",
+                        "Staphylococcus epidermidis",
+                        "estreptococos",
+                        "enterococos",
+                        "Pseudomonas",
+                        "bacterias gramnegativas",
+                        "anaerobios",
+                        "VSG",
+                        "proteína C reactiva",
+                        "PCR",
+                        "radiografía",
+                        "gammagrafía",
+                        "resonancia magnética",
+                        "artrocentesis",
+                        "cultivo intraoperatorio",
+                        "antibioterapia",
+                        "desbridamiento",
+                        "retención del implante",
+                        "recambio protésico",
+                        "recambio en un tiempo",
+                        "recambio en dos tiempos",
+                        "retirada del implante"
+                    ],
+                    "TEMAS": [
+                        "Tema 2. Infecciones óseas inespecíficas",
+                        "Infección de implantes",
+                        "1. Epidemiología",
+                        "2. Etiología",
+                        "3. Clínica y diagnóstico",
+                        "4. Tratamiento",
+                        "5. Prevención"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Infección de prótesis articular",
+                        "Infección de material de osteosíntesis"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_03.01_-_Biomecanica_y_Conceptos_Basicos.png",
+                "ruta": "infografias/Traumatología/Tema_03.01_-_Biomecanica_y_Conceptos_Basicos.png",
+                "metadatos": {
+                    "TITULO": "Tema 03.01 Biomecánica y conceptos básicos",
+                    "DESCRIPCION": "Lámina didáctica sobre los fundamentos biomecánicos del hueso y su aplicación en las fracturas. Define la fuerza (stress) y la deformación (strain), explica el módulo de Young y la relación entre fuerza y deformación, y resume la elasticidad, la anisotropía y el comportamiento viscoelástico del hueso. Describe los tipos de esfuerzos —tracción, compresión, flexión, cizallamiento y torsión—, las propiedades de la deformación elástica y plástica, los límites elástico y de rotura, la resistencia y la tenacidad. Incluye la aplicación de estos conceptos a los mecanismos de producción y patrones de fractura.",
+                    "PALABRAS_CLAVE": [
+                        "biomecánica",
+                        "fuerza",
+                        "stress",
+                        "deformación",
+                        "strain",
+                        "módulo de Young",
+                        "elasticidad",
+                        "rigidez",
+                        "anisotropía",
+                        "viscoelasticidad",
+                        "tracción",
+                        "compresión",
+                        "flexión",
+                        "cizallamiento",
+                        "torsión",
+                        "deformación elástica",
+                        "deformación plástica",
+                        "límite elástico",
+                        "límite de rotura",
+                        "resistencia ósea",
+                        "tenacidad",
+                        "fractura",
+                        "avulsión",
+                        "aplastamiento",
+                        "fractura transversal",
+                        "fractura en cuña",
+                        "fractura oblicua",
+                        "fractura espiroidea"
+                    ],
+                    "TEMAS": [
+                        "Tema 3. Estudio general de las fracturas",
+                        "Generalidades",
+                        "Factores extrínsecos",
+                        "Fuerza (stress)",
+                        "Deformación (strain)",
+                        "Módulo de Young",
+                        "Propiedades intrínsecas del hueso",
+                        "Anisotropía",
+                        "Comportamiento viscoelástico",
+                        "Clasificación de las fracturas según el mecanismo de generación"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "No se describen patologías específicas"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_03.02_-_Clasificacion_de_las_Fracturas.png",
+                "ruta": "infografias/Traumatología/Tema_03.02_-_Clasificacion_de_las_Fracturas.png",
+                "metadatos": {
+                    "TITULO": "Tema 03.02 Clasificación de las fracturas",
+                    "DESCRIPCION": "Lámina didáctica sobre el concepto de fractura y sus criterios de clasificación. Resume la clasificación según el mecanismo o etiología, el trazo, el desplazamiento, la integridad del hueso, la comunicación con el exterior, la energía del traumatismo y la localización anatómica. Incluye la distinción entre fracturas completas e incompletas, abiertas y cerradas, y la clasificación de Gustilo-Anderson para fracturas abiertas, con sus grados y características.",
+                    "PALABRAS_CLAVE": [
+                        "fractura",
+                        "clasificación",
+                        "mecanismo directo",
+                        "mecanismo indirecto",
+                        "trazo transversal",
+                        "trazo oblicuo",
+                        "trazo espiral",
+                        "trazo longitudinal",
+                        "fractura conminuta",
+                        "fractura segmentaria",
+                        "desplazamiento",
+                        "angulación",
+                        "traslación",
+                        "rotación",
+                        "acortamiento",
+                        "fractura completa",
+                        "fractura incompleta",
+                        "fractura abierta",
+                        "fractura cerrada",
+                        "alta energía",
+                        "baja energía",
+                        "epífisis",
+                        "metáfisis",
+                        "diáfisis",
+                        "Gustilo-Anderson",
+                        "pseudoartrosis",
+                        "infección",
+                        "lesión de partes blandas"
+                    ],
+                    "TEMAS": [
+                        "Tema 3. Estudio general de las fracturas",
+                        "Clasificación de fracturas",
+                        "Mecanismo de generación",
+                        "Lesiones de partes blandas",
+                        "Clasificación de Gustilo-Anderson",
+                        "Intensidad del traumatismo",
+                        "Anatomía del hueso"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "No se describen patologías específicas"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_03.03_-_Clasificacion_de_Gustilo_Anderson.png",
+                "ruta": "infografias/Traumatología/Tema_03.03_-_Clasificacion_de_Gustilo_Anderson.png",
+                "metadatos": {
+                    "TITULO": "Tema 03.03 Clasificación de Gustilo-Anderson",
+                    "DESCRIPCION": "Lámina didáctica sobre la clasificación de las fracturas abiertas según Gustilo-Anderson. Compara las fracturas cerradas y abiertas y clasifica las fracturas abiertas en tipos I, II y III, con los subtipos IIIA, IIIB y IIIC. Recoge los criterios de tamaño de la herida, contaminación, daño de partes blandas, conminución ósea, cobertura ósea y lesión neurovascular.",
+                    "PALABRAS_CLAVE": [
+                        "fractura cerrada",
+                        "fractura abierta",
+                        "Gustilo-Anderson",
+                        "tipo I",
+                        "tipo II",
+                        "tipo III",
+                        "tipo IIIA",
+                        "tipo IIIB",
+                        "tipo IIIC",
+                        "tamaño de la herida",
+                        "contaminación",
+                        "partes blandas",
+                        "conminución ósea",
+                        "cobertura ósea",
+                        "reconstrucción",
+                        "lesión neurovascular"
+                    ],
+                    "TEMAS": [
+                        "Tema 3. Estudio general de las fracturas",
+                        "Clasificación de fracturas",
+                        "Fracturas abiertas",
+                        "Gustilo-Anderson",
+                        "Lesiones de partes blandas"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "No se describen patologías específicas"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_03.04_-_Fracturas_segun_etiologia_y_osteoporosis.png",
+                "ruta": "infografias/Traumatología/Tema_03.04_-_Fracturas_segun_etiologia_y_osteoporosis.png",
+                "metadatos": {
+                    "TITULO": "Tema 03.04 Fracturas según su etiología y osteoporosis",
+                    "DESCRIPCION": "Lámina didáctica sobre la clasificación de las fracturas según su etiología: habituales, patológicas y por estrés o fatiga. Incluye la definición, los tipos primarios y secundarios, la clínica, las localizaciones más frecuentes, las consecuencias asociadas y el tratamiento de la osteoporosis. Resume las medidas preventivas y el tratamiento en la mujer posmenopáusica según el riesgo de fractura.",
+                    "PALABRAS_CLAVE": [
+                        "fracturas",
+                        "etiología",
+                        "fracturas habituales",
+                        "fracturas patológicas",
+                        "fracturas por estrés",
+                        "fracturas por fatiga",
+                        "osteoporosis",
+                        "osteoporosis primaria",
+                        "osteoporosis secundaria",
+                        "osteoporosis idiopática",
+                        "osteoporosis posmenopáusica",
+                        "osteoporosis senil",
+                        "masa ósea",
+                        "fractura vertebral",
+                        "fractura de cadera",
+                        "fractura del extremo distal del antebrazo",
+                        "fractura del extremo proximal del húmero",
+                        "prevención de caídas",
+                        "actividad física",
+                        "calcio",
+                        "vitamina D",
+                        "bifosfonatos",
+                        "denosumab",
+                        "teriparatida"
+                    ],
+                    "TEMAS": [
+                        "Tema 3. Estudio general de las fracturas",
+                        "Etiología de las fracturas",
+                        "Fracturas patológicas",
+                        "Fracturas por estrés",
+                        "Osteoporosis",
+                        "Tratamiento de la osteoporosis"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Osteoporosis",
+                        "necrosis avascular"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_03.05_-_Fracturas_infantiles_Salter_Harris_clinica_y_diagnostico.png",
+                "ruta": "infografias/Traumatología/Tema_03.05_-_Fracturas_infantiles_Salter_Harris_clinica_y_diagnostico.png",
+                "metadatos": {
+                    "TITULO": "Tema 03.05 Fracturas en el niño: Salter-Harris, clínica y diagnóstico",
+                    "DESCRIPCION": "Lámina didáctica sobre las peculiaridades de las fracturas infantiles y la clasificación de las lesiones de la fisis según Salter-Harris. Describe los tipos I–V, la clínica, la valoración neurovascular y las pruebas de diagnóstico por imagen: radiografía, TC, RM y ecografía. Incluye pistas clínicas especiales para diferenciar la fractura de cadera de la luxación de cadera.",
+                    "PALABRAS_CLAVE": [
+                        "fracturas infantiles",
+                        "fracturas en el niño",
+                        "fisis",
+                        "placa de crecimiento",
+                        "epifisiolisis",
+                        "Salter-Harris",
+                        "Salter-Harris tipo I",
+                        "Salter-Harris tipo II",
+                        "Salter-Harris tipo III",
+                        "Salter-Harris tipo IV",
+                        "Salter-Harris tipo V",
+                        "epífisis",
+                        "metáfisis",
+                        "periostio",
+                        "déficit de crecimiento",
+                        "deformidad angular",
+                        "hematoma de Hennequin",
+                        "fractura de cadera",
+                        "luxación de cadera",
+                        "valoración neurovascular",
+                        "radiografía",
+                        "tomografía computarizada",
+                        "TC",
+                        "resonancia magnética",
+                        "RM",
+                        "ecografía"
+                    ],
+                    "TEMAS": [
+                        "Tema 3. Estudio general de las fracturas",
+                        "Fracturas infantiles",
+                        "Lesiones fisarias",
+                        "Clasificación de Salter-Harris",
+                        "Clínica de las fracturas infantiles",
+                        "Diagnóstico por imagen"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "No se describen patologías específicas"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_03.06_-_Diagnostico_de_las_fracturas_pruebas_de_imagen.png",
+                "ruta": "infografias/Traumatología/Tema_03.06_-_Diagnostico_de_las_fracturas_pruebas_de_imagen.png",
+                "metadatos": {
+                    "TITULO": "Tema 03.06 Diagnóstico de las fracturas: pruebas de imagen",
+                    "DESCRIPCION": "Lámina didáctica sobre las pruebas de imagen utilizadas en el diagnóstico de las fracturas. Describe la radiografía como prueba inicial y su realización en dos proyecciones con estudio de articulación a articulación. Resume las indicaciones de la tomografía computarizada (TC), la resonancia magnética (RM) y la ecografía. Incluye la pista documental sobre la progresión de una fractura puntiforme tipo I a tipo II tras un traumatismo de alta energía.",
+                    "PALABRAS_CLAVE": [
+                        "diagnóstico de fracturas",
+                        "pruebas de imagen",
+                        "radiografía",
+                        "dos proyecciones",
+                        "articulación a articulación",
+                        "tomografía computarizada",
+                        "TC",
+                        "fracturas epifisarias articulares",
+                        "fracturas vertebrales",
+                        "politraumatismo",
+                        "resonancia magnética",
+                        "RM",
+                        "fracturas por estrés",
+                        "fracturas vertebrales agudas",
+                        "fracturas vertebrales crónicas",
+                        "lesiones capsuloligamentosas",
+                        "ecografía",
+                        "fracturas epifisarias infantiles",
+                        "fractura tipo I",
+                        "fractura tipo II"
+                    ],
+                    "TEMAS": [
+                        "Tema 3. Estudio general de las fracturas",
+                        "Diagnóstico de las fracturas",
+                        "Pruebas de imagen",
+                        "Radiografía",
+                        "Tomografía computarizada",
+                        "Resonancia magnética",
+                        "Ecografía"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "No se describen patologías específicas"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_04.01_-_Principios_generales_del_tratamiento_de_las_fracturas.png",
+                "ruta": "infografias/Traumatología/Tema_04.01_-_Principios_generales_del_tratamiento_de_las_fracturas.png",
+                "metadatos": {
+                    "TITULO": "Tema 04.01 Principios generales del tratamiento de las fracturas",
+                    "DESCRIPCION": "Lámina didáctica sobre los objetivos y el abordaje general del tratamiento de las fracturas. Resume las fases principales —reducción, estabilización y rehabilitación—, las modalidades de reducción cerrada y abierta, los métodos de estabilización no quirúrgicos y las indicaciones de tratamiento quirúrgico. Incluye las situaciones de urgencia quirúrgica, las medidas de inmovilización y tracción, y las claves MIR sobre estabilización y tracción transesquelética.",
+                    "PALABRAS_CLAVE": [
+                        "tratamiento de las fracturas",
+                        "principios generales",
+                        "recuperación funcional",
+                        "consolidación ósea",
+                        "tratamiento conservador",
+                        "tratamiento quirúrgico",
+                        "urgencia quirúrgica",
+                        "politraumatizado",
+                        "fractura abierta",
+                        "fractura-luxación",
+                        "compromiso neurovascular",
+                        "fractura de cadera",
+                        "reducción",
+                        "reducción cerrada",
+                        "reducción abierta",
+                        "estabilización",
+                        "rehabilitación",
+                        "inmovilización",
+                        "yeso",
+                        "férula moldeable",
+                        "vendaje",
+                        "tracción continua",
+                        "tracción temporal",
+                        "tracción por gravedad",
+                        "tracción cutánea",
+                        "tracción blanda",
+                        "tracción transesquelética",
+                        "fijación externa",
+                        "indicaciones quirúrgicas",
+                        "control del dolor"
+                    ],
+                    "TEMAS": [
+                        "Tema 3. Estudio general de las fracturas",
+                        "Tratamiento de las fracturas",
+                        "Objetivos del tratamiento",
+                        "Abordaje general",
+                        "Reducción de las fracturas",
+                        "Estabilización de las fracturas",
+                        "Métodos de inmovilización",
+                        "Tracción",
+                        "Indicaciones de tratamiento quirúrgico",
+                        "Rehabilitación"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Fracturas",
+                        "fracturas abiertas",
+                        "fractura-luxación"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_04.02_-_reduccion_e_inmovilizacion_de_las_fracturas.png",
+                "ruta": "infografias/Traumatología/Tema_04.02_-_reduccion_e_inmovilizacion_de_las_fracturas.png",
+                "metadatos": {
+                    "TITULO": "Tema 04.02 Reducción e inmovilización de las fracturas",
+                    "DESCRIPCION": "Lámina didáctica sobre los objetivos y métodos de reducción de las fracturas. Explica la reducción cerrada y abierta, así como la estabilización mediante yeso, férula moldeable y vendaje. Describe la tracción continua temporal y sus modalidades por gravedad, cutánea o blanda y transesquelética. Resume las indicaciones de tratamiento quirúrgico y los principios para recuperar la relación anatómica, mantener la reducción, disminuir la movilidad de los fragmentos y favorecer la consolidación.",
+                    "PALABRAS_CLAVE": [
+                        "reducción de fracturas",
+                        "reducción cerrada",
+                        "reducción abierta",
+                        "relación anatómica",
+                        "estabilización",
+                        "inmovilización",
+                        "yeso",
+                        "férula moldeable",
+                        "vendaje",
+                        "tracción continua",
+                        "tracción por gravedad",
+                        "tracción cutánea",
+                        "tracción blanda",
+                        "tracción transesquelética",
+                        "consolidación ósea",
+                        "tratamiento quirúrgico",
+                        "movilización precoz",
+                        "lesión vascular"
+                    ],
+                    "TEMAS": [
+                        "Tema 4. Tratamiento de las fracturas",
+                        "Objetivos de la reducción",
+                        "Reducción cerrada",
+                        "Reducción abierta",
+                        "Estabilización de las fracturas",
+                        "Métodos de estabilización no quirúrgicos",
+                        "Yeso",
+                        "Férula moldeable",
+                        "Vendaje",
+                        "Tracción continua",
+                        "Tracción por gravedad",
+                        "Tracción cutánea",
+                        "Tracción transesquelética",
+                        "Indicaciones del tratamiento quirúrgico"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Fracturas epifisarias de fémur",
+                        "fracturas de pelvis",
+                        "fracturas de acetábulo",
+                        "fracturas de tibia",
+                        "fracturas articulares",
+                        "fracturas de cadera",
+                        "fracturas inestables",
+                        "fracturas abiertas",
+                        "fracturas patológicas",
+                        "fracturas periprotésicas",
+                        "epifisiolisis Salter-Harris tipo III",
+                        "epifisiolisis Salter-Harris tipo IV",
+                        "lesiones vasculares asociadas"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, pp. 25–26"
+                }
+            },
+            {
+                "nombre": "Tema_04.03_-_Tratamiento_quirurgico_de_las_fracturas_indicaciones_y_osteosintesis.png",
+                "ruta": "infografias/Traumatología/Tema_04.03_-_Tratamiento_quirurgico_de_las_fracturas_indicaciones_y_osteosintesis.png",
+                "metadatos": {
+                    "TITULO": "Tema 04.03 Tratamiento quirúrgico de las fracturas: indicaciones y osteosíntesis",
+                    "DESCRIPCION": "Lámina didáctica sobre las indicaciones del tratamiento quirúrgico de las fracturas y las principales técnicas de osteosíntesis. Resume cuándo está indicada la cirugía —fracturas inestables o con fracaso de reducción cerrada, fracturas que requieren reducción anatómica y movilización precoz, epifisiolisis Salter-Harris III y IV, lesiones vasculares asociadas y fracturas patológicas o periprotésicas—. Describe placas y tornillos, clavos intramedulares, tornillos y fijadores externos, su elección según el tipo de fractura y las ventajas del tratamiento quirúrgico.",
+                    "PALABRAS_CLAVE": [
+                        "tratamiento quirúrgico de las fracturas",
+                        "indicaciones quirúrgicas",
+                        "osteosíntesis",
+                        "placas",
+                        "tornillos",
+                        "clavos intramedulares",
+                        "fijador externo",
+                        "fracturas inestables",
+                        "reducción cerrada",
+                        "reducción anatómica",
+                        "movilización precoz",
+                        "fracturas articulares",
+                        "fracturas metafisarias",
+                        "fracturas diafisarias",
+                        "fractura de cuello femoral",
+                        "fracturas abiertas",
+                        "partes blandas comprometidas",
+                        "politraumatizado",
+                        "epifisiolisis",
+                        "Salter-Harris III",
+                        "Salter-Harris IV",
+                        "lesiones vasculares",
+                        "fracturas patológicas",
+                        "fracturas periprotésicas",
+                        "estabilización",
+                        "consolidación ósea"
+                    ],
+                    "TEMAS": [
+                        "Tema 3. Estudio general de las fracturas",
+                        "Tratamiento quirúrgico de las fracturas",
+                        "Indicaciones del tratamiento quirúrgico",
+                        "Técnicas de osteosíntesis",
+                        "Placas y tornillos",
+                        "Clavos intramedulares",
+                        "Fijación externa",
+                        "Elección del método de osteosíntesis según la fractura",
+                        "Ventajas del tratamiento quirúrgico"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Fracturas",
+                        "fracturas inestables",
+                        "fracturas articulares",
+                        "fracturas abiertas",
+                        "fracturas patológicas",
+                        "fracturas periprotésicas",
+                        "fracturas del cuello femoral",
+                        "epifisiolisis Salter-Harris tipo III y IV"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, pp. 26–28"
+                }
+            },
+            {
+                "nombre": "Tema_04.04_-_Estabilizacion_absoluta_y_relativa_de_las_fracturas.png",
+                "ruta": "infografias/Traumatología/Tema_04.04_-_Estabilizacion_absoluta_y_relativa_de_las_fracturas.png",
+                "metadatos": {
+                    "TITULO": "Tema 04.04 Estabilización absoluta y relativa de las fracturas",
+                    "DESCRIPCION": "Lámina didáctica sobre los principios de estabilización absoluta (por compresión) y estabilización relativa de las fracturas. Explica sus diferencias según la deformación en el foco de fractura, el tipo de reducción, las indicaciones y el material empleado. Describe la compresión estática mediante placas DCP/LC-DCP y tornillos de compresión interfragmentaria, y la compresión dinámica mediante cerclaje o banda de tensión y placa-tornillo deslizante. Resume los sistemas bloqueados —clavo intramedular bloqueado, placa puente y placas LCP—, la técnica MIPO, el fijador externo y los sistemas no bloqueados, como el yeso, la tracción continua y el enclavado flexible.",
+                    "PALABRAS_CLAVE": [
+                        "estabilización absoluta",
+                        "estabilización relativa",
+                        "compresión",
+                        "deformación del foco de fractura",
+                        "reducción anatómica",
+                        "reducción funcional",
+                        "compresión estática",
+                        "compresión dinámica",
+                        "placa DCP",
+                        "placa LC-DCP",
+                        "tornillo de compresión interfragmentaria",
+                        "cerclaje",
+                        "banda de tensión",
+                        "placa-tornillo deslizante",
+                        "clavo intramedular bloqueado",
+                        "placa puente",
+                        "placa LCP",
+                        "técnica MIPO",
+                        "fijador externo",
+                        "yeso",
+                        "tracción continua",
+                        "enclavado flexible"
+                    ],
+                    "TEMAS": [
+                        "Tema 4. Tratamiento de las fracturas",
+                        "Estabilización absoluta",
+                        "Estabilización relativa",
+                        "Compresión estática",
+                        "Compresión dinámica",
+                        "Sistemas bloqueados",
+                        "Clavo intramedular bloqueado",
+                        "Placa puente",
+                        "Placas LCP",
+                        "Técnica MIPO",
+                        "Fijador externo",
+                        "Sistemas no bloqueados"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Fracturas articulares",
+                        "fracturas de antebrazo en el adulto",
+                        "fracturas diafisarias",
+                        "fracturas conminutas",
+                        "fracturas abiertas",
+                        "fracturas pélvicas",
+                        "fracturas de rótula",
+                        "fracturas de olécranon",
+                        "fracturas del fémur proximal"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, pp. 27–29"
+                }
+            },
+            {
+                "nombre": "Tema_04.05_-_Manejo_inicial_y_cobertura_de_las_fracturas_abiertas.png",
+                "ruta": "infografias/Traumatología/Tema_04.05_-_Manejo_inicial_y_cobertura_de_las_fracturas_abiertas.png",
+                "metadatos": {
+                    "TITULO": "Tema 04.05 Manejo inicial y cobertura de las fracturas abiertas",
+                    "DESCRIPCION": "Lámina didáctica sobre el manejo inicial de las fracturas abiertas. Resume la valoración primaria y el control de la hemorragia, la antibioterapia precoz, la profilaxis antitetánica, la inmovilización provisional y la cura estéril. Describe el desbridamiento quirúrgico de Friedrich, sus pasos principales, la estabilización de la fractura según la clasificación de Gustilo-Anderson y las opciones de cobertura de la herida mediante cierre primario, cierre diferido o colgajos.",
+                    "PALABRAS_CLAVE": [
+                        "fractura abierta",
+                        "manejo inicial",
+                        "urgencias",
+                        "valoración primaria",
+                        "ATLS",
+                        "control de la hemorragia",
+                        "antibioterapia precoz",
+                        "profilaxis antitetánica",
+                        "inmovilización provisional",
+                        "cura estéril",
+                        "desbridamiento de Friedrich",
+                        "Gustilo-Anderson",
+                        "estabilización de la fractura",
+                        "osteosíntesis",
+                        "fijador externo",
+                        "cierre primario",
+                        "cierre diferido",
+                        "cobertura con colgajos."
+                    ],
+                    "TEMAS": [
+                        "Tema 4. Tratamiento de las fracturas",
+                        "3. Tratamiento de fracturas abiertas",
+                        "3.1. Estabilización y cobertura."
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Fractura abierta."
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_05.01_-_Strain_y_consolidacion_osea.png",
+                "ruta": "infografias/Traumatología/Tema_05.01_-_Strain_y_consolidacion_osea.png",
+                "metadatos": {
+                    "TITULO": "Tema 05.01 Strain y consolidación ósea",
+                    "DESCRIPCION": "Lámina didáctica sobre la relación entre el strain o deformación del foco de fractura y la respuesta biológica durante la consolidación ósea. Explica los umbrales de deformación asociados a la estabilidad absoluta, relativa y la inestabilidad, así como sus efectos sobre la formación de tejido óseo, cartilaginoso o fibroso. Compara la consolidación directa o primaria, que requiere reducción anatómica y estabilidad absoluta y no forma callo, con la consolidación indirecta o secundaria, que se desarrolla con estabilidad relativa y formación de callo. Resume las cinco fases de esta última: hematoma, inflamatoria, reparadora o callo blando, osificación o callo duro y remodelación. Incluye factores favorables y desfavorables para la consolidación y los conceptos de osteogenicidad, osteoinducción y osteoconducción.",
+                    "PALABRAS_CLAVE": [
+                        "strain",
+                        "deformación",
+                        "estabilidad",
+                        "compresión",
+                        "consolidación",
+                        "fractura",
+                        "hueso",
+                        "tejido",
+                        "callo",
+                        "hematoma",
+                        "inflamación",
+                        "reparación",
+                        "osificación",
+                        "remodelación",
+                        "osteoblastos",
+                        "osteoclastos",
+                        "cartílago",
+                        "colágeno",
+                        "vascularización",
+                        "osteogenicidad",
+                        "osteoinducción",
+                        "osteoconducción",
+                        "teriparatida",
+                        "tabaquismo",
+                        "AINEs",
+                        "corticoides",
+                        "quimioterapia",
+                        "quinolonas",
+                        "malnutrición."
+                    ],
+                    "TEMAS": [
+                        "Tema 5. Proceso de reparación de las fracturas",
+                        "1. Concepto de strain o deformación",
+                        "2. Tipos de consolidación ósea",
+                        "2.1. Fases de la consolidación indirecta",
+                        "factores que influyen en la consolidación",
+                        "conceptos clave de regeneración ósea."
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "no se describen patologías específicas."
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "generado IA"
+                }
+            },
+            {
+                "nombre": "Tema_05.02_-_Fases_y_factores_de_la_consolidacion_osea.png",
+                "ruta": "infografias/Traumatología/Tema_05.02_-_Fases_y_factores_de_la_consolidacion_osea.png",
+                "metadatos": {
+                    "TITULO": "Tema 05.02 Fases y factores de la consolidación ósea",
+                    "DESCRIPCION": "Lámina didáctica sobre la consolidación indirecta o secundaria de las fracturas. Describe sus características y las cinco fases secuenciales y solapadas del proceso: hematoma inmediato, fase inflamatoria, fase reparadora o formación del callo blando, osificación o formación del callo duro y remodelación. Resume los cambios celulares y tisulares de cada fase, incluyendo la quimiotaxis, la angiogénesis, la formación del coágulo de fibrina, la formación de cartílago y la calcificación del callo. También recoge los factores favorables y desfavorables que influyen en la consolidación, y destaca la estabilidad del foco de fractura y la vascularización como factores clave.",
+                    "PALABRAS_CLAVE": [
+                        "consolidación",
+                        "fractura",
+                        "callo",
+                        "hematoma",
+                        "inflamación",
+                        "reparación",
+                        "remodelación",
+                        "quimiotaxis",
+                        "angiogénesis",
+                        "macrófagos",
+                        "neutrófilos",
+                        "plaquetas",
+                        "citoquinas",
+                        "fibrina",
+                        "necrosis",
+                        "oxígeno",
+                        "condroblastos",
+                        "osteoblastos",
+                        "osteoclastos",
+                        "cartílago",
+                        "colágeno",
+                        "osificación",
+                        "calcificación",
+                        "vascularización",
+                        "estabilidad",
+                        "tabaquismo",
+                        "diabetes",
+                        "AINEs",
+                        "corticoides",
+                        "quimioterapia",
+                        "quinolonas",
+                        "malnutrición",
+                        "teriparatida"
+                    ],
+                    "TEMAS": [
+                        "Tema 5. Proceso de reparación de las fracturas",
+                        "2.1. Fases de la consolidación indirecta",
+                        "2.2. Factores que influyen en la consolidación"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "no se describen patologías específicas"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, pp. 31–32"
+                }
+            },
+            {
+                "nombre": "Tema_05.03_-_Injertos_oseos.png",
+                "ruta": "infografias/Traumatología/Tema_05.03_-_Injertos_oseos.png",
+                "metadatos": {
+                    "TITULO": "Tema 05.03 Injertos óseos",
+                    "DESCRIPCION": "Lámina didáctica sobre los injertos óseos y sus principales",
+                    "propiedades biológicas": "osteogenicidad, osteoinducción y",
+                    "PALABRAS_CLAVE": [
+                        "injertos óseos",
+                        "autoinjerto",
+                        "autólogo",
+                        "aloinjerto"
+                    ],
+                    "TEMAS": [
+                        "Tema 5. Proceso de reparación de las fracturas",
+                        "5.3. Injertos"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "pseudoartrosis"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, pp. 33–34"
+                }
+            },
+            {
+                "nombre": "Tema_05.04_-_Embolia_grasa.png",
+                "ruta": "infografias/Traumatología/Tema_05.04_-_Embolia_grasa.png",
+                "metadatos": {
+                    "TITULO": "Tema 05.04 Embolia grasa",
+                    "DESCRIPCION": "Lámina didáctica sobre el embolismo graso tras fracturas de",
+                    "PALABRAS_CLAVE": [
+                        "embolia grasa",
+                        "embolismo graso",
+                        "fractura",
+                        "huesos largos"
+                    ],
+                    "TEMAS": [
+                        "Tema 5. Proceso de reparación y complicaciones de las fracturas"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Embolia grasa",
+                        "contusión pulmonar",
+                        "edema pulmonar"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, pp. 35–36"
+                }
+            },
+            {
+                "nombre": "Tema_05.05_-_Retardo_consolidacion_y_pseudoartrosis.png",
+                "ruta": "infografias/Traumatología/Tema_05.05_-_Retardo_consolidacion_y_pseudoartrosis.png",
+                "metadatos": {
+                    "TITULO": "Tema 05.05 Retardo de consolidación y pseudoartrosis",
+                    "DESCRIPCION": "Lámina sobre el retardo de consolidación y la pseudoartrosis como complicaciones de las fracturas. Define el retardo de consolidación y la ausencia de consolidación propia de la pseudoartrosis; recoge factores de riesgo, manifestaciones clínicas y diagnóstico mediante TC. Expone la clasificación de la pseudoartrosis en hipertrófica, atrófica e infectada, así como el tratamiento del retardo de consolidación mediante estímulos mecánicos y el abordaje específico de cada tipo de pseudoartrosis. En la pseudoartrosis infectada describe los cinco pilares terapéuticos: desbridamiento radical, toma de muestras para cultivo y antibiograma, estabilización, tratamiento del defecto óseo y antibioterapia específica.",
+                    "PALABRAS_CLAVE": [
+                        "fractura",
+                        "consolidación",
+                        "retardo",
+                        "pseudoartrosis",
+                        "hipertrófica",
+                        "atrófica",
+                        "infectada",
+                        "diagnóstico",
+                        "TC",
+                        "tomografía",
+                        "movilidad",
+                        "vascularización",
+                        "fijación",
+                        "dinamización",
+                        "osteotomía",
+                        "injerto",
+                        "desbridamiento",
+                        "cultivos",
+                        "antibiograma",
+                        "fijador",
+                        "antibióticos"
+                    ],
+                    "TEMAS": [
+                        "Tema 5"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Retardo de consolidación",
+                        "pseudoartrosis hipertrófica",
+                        "pseudoartrosis atrófica",
+                        "pseudoartrosis infectada"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, pp. 36–37"
+                }
+            },
+            {
+                "nombre": "Tema_06.01_-_epidemiologia_de_los_tumores_del_aparato_locomotor.png",
+                "ruta": "infografias/Traumatología/Tema_06.01_-_epidemiologia_de_los_tumores_del_aparato_locomotor.png",
+                "metadatos": {
+                    "TITULO": "Tema 06.01 Epidemiología de los tumores del aparato locomotor",
+                    "DESCRIPCION": "Lámina didáctica sobre la epidemiología de los tumores óseos y de partes blandas del aparato locomotor. Resume su distribución anatómica, destacando que la mayoría aparecen en las extremidades, que una parte importante de los tumores de las extremidades se localiza en los miembros inferiores y que casi la mitad de los tumores del miembro inferior se sitúa alrededor de la rodilla. Describe las asociaciones señaladas por sexo, la ausencia de influencia general de la raza (con la excepción del tumor de Ewing) y el pulmón como localización más frecuente de las metástasis de los tumores óseos malignos.",
+                    "PALABRAS_CLAVE": [
+                        "tumores",
+                        "tumores óseos",
+                        "tumores de partes blandas",
+                        "aparato locomotor",
+                        "epidemiología",
+                        "extremidades",
+                        "miembros inferiores",
+                        "rodilla",
+                        "sexo",
+                        "varones",
+                        "mujeres",
+                        "raza",
+                        "metástasis",
+                        "pulmón",
+                        "osteosarcoma",
+                        "condrosarcoma",
+                        "Ewing",
+                        "células gigantes",
+                        "quistes óseos"
+                    ],
+                    "TEMAS": [
+                        "Tema 6"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Osteosarcoma",
+                        "condrosarcoma",
+                        "tumor de Ewing",
+                        "tumor de células gigantes",
+                        "quistes óseos"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, p. 39"
+                }
+            },
+            {
+                "nombre": "Tema_06.02_-_Lectura_radiologica_de_tumores_oseos.png",
+                "ruta": "infografias/Traumatología/Tema_06.02_-_Lectura_radiologica_de_tumores_oseos.png",
+                "metadatos": {
+                    "TITULO": "Tema 06.02 Lectura radiológica de los tumores óseos",
+                    "DESCRIPCION": "Lámina didáctica sobre la lectura radiológica de los tumores óseos. Resume las cuatro preguntas de Enneking para valorar una lesión (localización, patrón de destrucción ósea, reacción perióstica y matriz tumoral), los criterios de Lodwick y las reacciones periósticas. Describe las matrices ósea, condral y fibrosa, los signos radiológicos especiales, los falsos amigos y falsos enemigos, las claves radiológicas para diferenciar lesiones benignas y malignas y la utilidad de la resonancia magnética con gadolinio.",
+                    "PALABRAS_CLAVE": [
+                        "tumores óseos",
+                        "radiología",
+                        "Enneking",
+                        "Lodwick",
+                        "destrucción ósea",
+                        "patrón geográfico",
+                        "patrón moteado",
+                        "patrón permeativo",
+                        "reacción perióstica",
+                        "capas de cebolla",
+                        "sol naciente",
+                        "triángulo de Codman",
+                        "matriz ósea",
+                        "matriz condral",
+                        "matriz fibrosa",
+                        "secuestro",
+                        "involucro",
+                        "esclerosis reactiva",
+                        "expansión cortical",
+                        "rotura cortical",
+                        "partes blandas",
+                        "resonancia magnética",
+                        "gadolinio",
+                        "benignidad",
+                        "malignidad"
+                    ],
+                    "TEMAS": [
+                        "Tema 6"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Osteosarcoma",
+                        "tumor de Ewing",
+                        "condrosarcoma de bajo grado",
+                        "metástasis óseas",
+                        "quiste óseo simple",
+                        "quiste óseo aneurismático",
+                        "displasia fibrosa",
+                        "granuloma eosinófilo",
+                        "fibroma no osificante"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, pp. 39–43"
+                }
+            },
+            {
+                "nombre": "Tema_06.03_-_Principales_tumores_del_aparato_locomotor.png",
+                "ruta": "infografias/Traumatología/Tema_06.03_-_Principales_tumores_del_aparato_locomotor.png",
+                "metadatos": {
+                    "TITULO": "Tema 06.03 Principales tumores del aparato locomotor",
+                    "DESCRIPCION": "Lámina didáctica sobre los principales tumores óseos y de partes blandas del aparato locomotor. Resume las características clínicas y radiológicas, la localización habitual, la edad de presentación, el comportamiento biológico y el tratamiento de distintas lesiones, entre ellas tumores benignos, tumores malignos y metástasis óseas. Incluye osteoma osteoide, quistes óseos, condroblastoma, tumor de células gigantes, osteocondroma, condromas, condrosarcoma, osteosarcoma, sarcoma de Ewing, metástasis óseas, displasia fibrosa y sarcomas de partes blandas.",
+                    "PALABRAS_CLAVE": [
+                        "tumores óseos",
+                        "tumores de partes blandas",
+                        "aparato locomotor",
+                        "osteoma osteoide",
+                        "quiste óseo esencial",
+                        "quiste óseo aneurismático",
+                        "condroblastoma",
+                        "tumor de células gigantes",
+                        "osteoclastoma",
+                        "osteocondroma",
+                        "condromas",
+                        "condrosarcoma",
+                        "osteosarcoma",
+                        "sarcoma de Ewing",
+                        "metástasis óseas",
+                        "displasia fibrosa",
+                        "rabdomiosarcoma",
+                        "sarcoma pleomórfico",
+                        "lesiones benignas",
+                        "lesiones malignas",
+                        "patrón radiológico",
+                        "calcificaciones",
+                        "triángulo de Codman",
+                        "reacción perióstica",
+                        "pulmón",
+                        "pelvis",
+                        "fémur"
+                    ],
+                    "TEMAS": [
+                        "Tema 6"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Osteoma osteoide",
+                        "quiste óseo esencial",
+                        "quiste óseo aneurismático",
+                        "condroblastoma",
+                        "tumor de células gigantes",
+                        "osteocondroma",
+                        "condroma",
+                        "condrosarcoma",
+                        "osteosarcoma",
+                        "sarcoma de Ewing",
+                        "metástasis óseas",
+                        "displasia fibrosa",
+                        "rabdomiosarcoma",
+                        "sarcoma pleomórfico"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, pp. 44–47"
+                }
+            },
+            {
+                "nombre": "Tema_07.01_-_Anatomofisiologia_articular.png",
+                "ruta": "infografias/Traumatología/Tema_07.01_-_Anatomofisiologia_articular.png",
+                "metadatos": {
+                    "TITULO": "Tema 07.01 Anatomofisiología articular",
+                    "DESCRIPCION": "Lámina didáctica sobre la anatomía y fisiología de las articulaciones, con especial atención a la articulación sinovial. Describe sus elementos, la clasificación de las articulaciones, la estructura y composición de la cápsula y los ligamentos, la membrana sinovial y los tipos de sinoviocitos. Resume las características y funciones del líquido sinovial, la organización y propiedades del cartílago articular, las estructuras intraarticulares y los principios biomecánicos de las leyes de Hueter-Volkmann y Wolff.",
+                    "PALABRAS_CLAVE": [
+                        "articulaciones",
+                        "anatomía articular",
+                        "fisiología articular",
+                        "articulación sinovial",
+                        "sinartrosis",
+                        "anfiartrosis",
+                        "diartrosis",
+                        "sindesmosis",
+                        "sincondrosis",
+                        "sínfisis",
+                        "cartílago hialino",
+                        "menisco",
+                        "labrum",
+                        "cavidad articular",
+                        "líquido sinovial",
+                        "membrana sinovial",
+                        "sinoviocitos",
+                        "cápsula articular",
+                        "ligamentos",
+                        "entesis",
+                        "cartílago articular",
+                        "condrocitos",
+                        "almohadillas adiposas",
+                        "presión intraarticular",
+                        "biomecánica",
+                        "ley de Hueter-Volkmann",
+                        "ley de Wolff"
+                    ],
+                    "TEMAS": [
+                        "Tema 6"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "no se describen patologías específicas"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, pp. 48–53"
+                }
+            },
+            {
+                "nombre": "Tema_08.01_-_Lesiones_del_cartilago_articular.png",
+                "ruta": "infografias/Traumatología/Tema_08.01_-_Lesiones_del_cartilago_articular.png",
+                "metadatos": {
+                    "TITULO": "Tema 08.01 Lesiones del cartílago articular",
+                    "DESCRIPCION": "Lámina didáctica sobre las lesiones del cartílago articular y sus consecuencias. Explica que el cartílago articular es avascular, aneural y alinfático, por lo que tiene escasa capacidad reparativa. Diferencia las lesiones indirectas, relacionadas con la exposición articular al aire, el derrame sinovial o hemartros y los cuerpos libres articulares, de las lesiones directas, como la contusión, la abrasión, la laceración, la fractura del cartílago y la lesión osteocondral. Resume las manifestaciones clínicas, las pruebas diagnósticas —radiografía, TC, RM y artrocentesis— y las medidas terapéuticas iniciales.",
+                    "PALABRAS_CLAVE": [
+                        "cartílago articular",
+                        "lesiones condrales",
+                        "lesiones osteocondrales",
+                        "cartílago avascular",
+                        "capacidad reparativa",
+                        "lesiones indirectas",
+                        "lesiones directas",
+                        "exposición articular al aire",
+                        "derrame sinovial",
+                        "hemartros",
+                        "cuerpos libres articulares",
+                        "contusión",
+                        "abrasión",
+                        "laceración",
+                        "fractura del cartílago",
+                        "hueso subcondral",
+                        "condrocitos",
+                        "dolor mecánico",
+                        "limitación funcional",
+                        "inestabilidad ligamentosa",
+                        "radiografía",
+                        "tomografía computarizada",
+                        "resonancia magnética",
+                        "artrocentesis",
+                        "líquido sinovial",
+                        "lipohemartros",
+                        "inmovilización",
+                        "bastones ingleses"
+                    ],
+                    "TEMAS": [
+                        "Tema 6"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Lesión condral",
+                        "lesión osteocondral"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, pp. 54–55"
+                }
+            },
+            {
+                "nombre": "Tema_09.01_-_Artritis_septica.png",
+                "ruta": "infografias/Traumatología/Tema_09.01_-_Artritis_septica.png",
+                "metadatos": {
+                    "TITULO": "Tema 09.01 Artritis séptica",
+                    "DESCRIPCION": "Lámina didáctica sobre la artritis séptica. Resume su concepto, formas clínicas, epidemiología, factores de riesgo y etiología. Explica las vías de acceso de los gérmenes, la patogenia y evolución del daño articular, las manifestaciones clínicas, el diagnóstico —con artrocentesis urgente— y el tratamiento mediante drenaje, antibioterapia y medidas de inmovilización y movilización.",
+                    "PALABRAS_CLAVE": [
+                        "artritis séptica",
+                        "infección articular",
+                        "sinovial",
+                        "derrame articular",
+                        "Staphylococcus aureus",
+                        "vías hematógena y directa",
+                        "factores de riesgo",
+                        "artrocentesis",
+                        "líquido sinovial",
+                        "tinción de Gram",
+                        "cultivo",
+                        "hemocultivos",
+                        "PCR",
+                        "VSG",
+                        "diagnóstico diferencial",
+                        "drenaje articular",
+                        "antibioterapia",
+                        "lavado artroscópico",
+                        "prótesis articular"
+                    ],
+                    "TEMAS": [
+                        "Tema 6"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Artritis séptica"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, pp. 56–60"
+                }
+            },
+            {
+                "nombre": "Tema_09.02_-_Infecciones_de_implantes_ortopedicos.png",
+                "ruta": "infografias/Traumatología/Tema_09.02_-_Infecciones_de_implantes_ortopedicos.png",
+                "metadatos": {
+                    "TITULO": "Tema 09.02 Infecciones de implantes ortopédicos",
+                    "DESCRIPCION": "Lámina didáctica sobre las infecciones de implantes ortopédicos. Explica la formación del biofilm, la clínica y el diagnóstico mediante artrocentesis, cultivos intraoperatorios y sonicación. Resume el tratamiento agudo y crónico, incluida la posible retirada del implante.",
+                    "PALABRAS_CLAVE": [
+                        "infección de implantes",
+                        "biofilm",
+                        "Staphylococcus epidermidis",
+                        "artrocentesis",
+                        "líquido sinovial",
+                        "radiografía",
+                        "cultivos intraoperatorios",
+                        "sonicación",
+                        "desbridamiento",
+                        "irrigación",
+                        "cepillado del implante",
+                        "antibioterapia",
+                        "retirada del implante"
+                    ],
+                    "TEMAS": [
+                        "Tema 6"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Infección de implantes ortopédicos"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, p. 61"
+                }
+            },
+            {
+                "nombre": "Tema_10.01_-_Traumatismos_articulares.png",
+                "ruta": "infografias/Traumatología/Tema_10.01_-_Traumatismos_articulares.png",
+                "metadatos": {
+                    "TITULO": "Tema 10.01 Traumatismos articulares",
+                    "DESCRIPCION": "Contusión articular, esguince, luxación, heridas articulares y mordeduras; diagnóstico, tratamiento y secuelas.",
+                    "PALABRAS_CLAVE": [
+                        "traumatismos articulares",
+                        "contusión",
+                        "esguince",
+                        "luxación",
+                        "heridas",
+                        "mordeduras",
+                        "anquilosis"
+                    ],
+                    "TEMAS": [
+                        "Tema 10.01"
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Contusión articular",
+                        "esguince",
+                        "luxación",
+                        "herida articular",
+                        "mordedura",
+                        "contractura",
+                        "anquilosis"
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "Traumatología.pdf, Tema 10"
+                }
+            },
+            {
+                "nombre": "Tema_11.01_-_Otras_artropatias_de_interes_quirurgico.png",
+                "ruta": "infografias/Traumatología/Tema_11.01_-_Otras_artropatias_de_interes_quirurgico.png",
+                "metadatos": {
+                    "TITULO": "Tema 11.01 Otras artropatías de interés quirúrgico",
+                    "DESCRIPCION": "Lámina sobre las principales artropatías de interés quirúrgico. Resume la artritis reumatoide, psoriásica y gotosa, la espondilitis anquilosante, la artrosis y las distrofias sinoviales benignas, con sus características clínicas y hallazgos principales.",
+                    "PALABRAS_CLAVE": [
+                        "artritis reumatoide",
+                        "artritis psoriásica",
+                        "artritis gotosa",
+                        "espondilitis anquilosante",
+                        "artrosis",
+                        "sinovitis villonodular pigmentada",
+                        "condromatosis sinovial",
+                        "podagra",
+                        "HLA-B27",
+                        "lápiz en copa",
+                        "osteofitos",
+                        "anquilosis."
+                    ],
+                    "TEMAS": [
+                        "Tema 11. Otras artropatías de interés quirúrgico",
+                        "artritis reumatoide",
+                        "artritis psoriásica",
+                        "artritis gotosa",
+                        "espondilitis anquilosante",
+                        "artrosis",
+                        "distrofias sinoviales benignas."
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Artritis reumatoide",
+                        "artritis psoriásica",
+                        "artritis gotosa",
+                        "espondilitis anquilosante",
+                        "artrosis",
+                        "sinovitis villonodular pigmentada",
+                        "condromatosis sinovial."
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, pp. 73–79."
+                }
+            },
+            {
+                "nombre": "Tema_12.01_-_Necrosis_osea_avascular.png",
+                "ruta": "infografias/Traumatología/Tema_12.01_-_Necrosis_osea_avascular.png",
+                "metadatos": {
+                    "TITULO": "Tema 12.01 Necrosis ósea avascular",
+                    "DESCRIPCION": "Lámina sobre la osteonecrosis o necrosis ósea avascular. Resume su definición, etiopatogenia, histología, diagnóstico, localizaciones, causas no traumáticas, osteocondrosis del crecimiento y tratamiento.",
+                    "PALABRAS_CLAVE": [
+                        "osteonecrosis",
+                        "necrosis avascular",
+                        "infarto óseo",
+                        "necrosis isquémica",
+                        "cabeza femoral",
+                        "RM",
+                        "gammagrafía",
+                        "osteocondrosis",
+                        "Perthes",
+                        "Köhler",
+                        "Kienböck."
+                    ],
+                    "TEMAS": [
+                        "Tema 12. Necrosis ósea avascular",
+                        "definición",
+                        "etiopatogenia",
+                        "diagnóstico",
+                        "localizaciones y tipos",
+                        "causas no traumáticas",
+                        "osteocondrosis del crecimiento",
+                        "tratamiento."
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Necrosis ósea avascular",
+                        "osteonecrosis",
+                        "infarto óseo",
+                        "osteocondrosis del crecimiento",
+                        "enfermedad de Perthes",
+                        "enfermedad de Panner",
+                        "Freiberg",
+                        "Köhler",
+                        "Kienböck."
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, pp. 80–85."
+                }
+            },
+            {
+                "nombre": "Tema_13.01_-_Fisiopatologia_tendinosa_y_sistemas_de_deslizamiento.png",
+                "ruta": "infografias/Traumatología/Tema_13.01_-_Fisiopatologia_tendinosa_y_sistemas_de_deslizamiento.png",
+                "metadatos": {
+                    "TITULO": "Tema 13.01 Fisiopatología tendinosa y sistemas de deslizamiento",
+                    "DESCRIPCION": "Lámina sobre la función, composición y arquitectura del tendón. Resume los sistemas de deslizamiento, la entesis, la biomecánica, la reparación tendinosa y las lesiones agudas y tendinopatías crónicas.",
+                    "PALABRAS_CLAVE": [
+                        "tendón",
+                        "tenocitos",
+                        "colágeno",
+                        "entesis",
+                        "paratenon",
+                        "vaina tendinosa",
+                        "poleas",
+                        "reparación tendinosa",
+                        "tendinopatía",
+                        "rotura tendinosa."
+                    ],
+                    "TEMAS": [
+                        "Tema 13. Fisiopatología tendinosa y sistemas de deslizamiento."
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Lesiones tendinosas agudas",
+                        "rotura tendinosa",
+                        "tendinopatías crónicas",
+                        "tendinosis",
+                        "paratendinitis."
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, pp. 86–88."
+                }
+            },
+            {
+                "nombre": "Tema_13.02_-_Tendinopatias_clasificacion_causas_y_tratamiento.png",
+                "ruta": "infografias/Traumatología/Tema_13.02_-_Tendinopatias_clasificacion_causas_y_tratamiento.png",
+                "metadatos": {
+                    "TITULO": "Tema 13.02 Tendinopatías: clasificación, causas y tratamiento",
+                    "DESCRIPCION": "Lámina sobre la clasificación histopatológica de las tendinopatías, sus causas extrínsecas e intrínsecas y las opciones de tratamiento conservador, infiltraciones, otras terapias y cirugía.",
+                    "PALABRAS_CLAVE": [
+                        "tendinopatías",
+                        "paratendinitis",
+                        "tendinosis",
+                        "colágeno",
+                        "sobrecarga mecánica",
+                        "factores intrínsecos",
+                        "factores extrínsecos",
+                        "ejercicio excéntrico",
+                        "corticoides",
+                        "ondas de choque",
+                        "tratamiento quirúrgico."
+                    ],
+                    "TEMAS": [
+                        "Tema 13. Fisiopatología tendinosa y sistemas de deslizamiento."
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Paratendinitis",
+                        "tendinosis",
+                        "paratendinitis con tendinosis",
+                        "tendinopatías crónicas."
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "TRAUMA.pdf, pp. 89–90."
+                }
+            },
+            {
+                "nombre": "Tema_13.03_-_Tendinopatias_agudas_de_la_mano.png",
+                "ruta": "infografias/Traumatología/Tema_13.03_-_Tendinopatias_agudas_de_la_mano.png",
+                "metadatos": {
+                    "TITULO": "Tema 13.03 Tendinopatías agudas de la mano: tratamiento quirúrgico",
+                    "DESCRIPCION": "Lámina sobre la reparación primaria de las lesiones tendinosas de la mano, sus tiempos, principios quirúrgicos y preservación de las poleas.",
+                    "PALABRAS_CLAVE": [
+                        "tendinopatías de la mano",
+                        "reparación primaria",
+                        "reparación diferida",
+                        "WALANT",
+                        "sutura tendinosa",
+                        "poleas A2 y A4",
+                        "flexor superficial",
+                        "flexor profundo",
+                        "cuerda de arco."
+                    ],
+                    "TEMAS": [
+                        "Tema 13. Fisiopatología tendinosa y sistemas de deslizamiento."
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Lesiones agudas de los tendones flexores de la mano."
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "Traumatología(1).pdf, Tema 13, apartado 10 (Tendinopatías agudas de la mano)."
+                }
+            },
+            {
+                "nombre": "Tema_13.04_-_Tendinopatias_de_la_mano_Deformidades.png",
+                "ruta": "infografias/Traumatología/Tema_13.04_-_Tendinopatias_de_la_mano_Deformidades.png",
+                "metadatos": {
+                    "TITULO": "Tema 13.04 - Tendinopatías de la mano: deformidades",
+                    "DESCRIPCION": "Lámina sobre las deformidades de los dedos en cuello de cisne, boutonnière y martillo, con sus lesiones tendinosas y posiciones articulares características.",
+                    "PALABRAS_CLAVE": [
+                        "tendinopatías de la mano",
+                        "dedo en cuello de cisne",
+                        "dedo en boutonnière",
+                        "dedo en martillo",
+                        "IFP",
+                        "IFD",
+                        "placa volar",
+                        "bandeleta central del extensor."
+                    ],
+                    "TEMAS": [
+                        "Tema 13. Fisiopatología tendinosa y sistemas de deslizamiento."
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Dedo en cuello de cisne",
+                        "dedo en boutonnière",
+                        "dedo en martillo."
+                    ],
+                    "CURSO": "Cuarto",
+                    "FUENTE": "Traumatología(1).pdf, Tema 13, apartado 11 (Tendinopatías de la mano)."
+                }
+            },
+            {
+                "nombre": "Tema_13.05_-_Tumores_de_la_mano.png",
+                "ruta": "infografias/Traumatología/Tema_13.05_-_Tumores_de_la_mano.png",
+                "metadatos": {
+                    "TITULO": "Tema 13.05 Tumores de la mano",
+                    "DESCRIPCION": "Lámina sobre los principales tumores y lesiones pseudotumorales de la mano, en su mayoría benignos. Incluye ganglión, tumor de células gigantes de la vaina tendinosa, quiste de inclusión epidérmica, tumor glómico, schwannoma y tumores óseos.",
+                    "PALABRAS_CLAVE": [
+                        "tumores de la mano",
+                        "ganglión",
+                        "quiste sinovial",
+                        "tumor de células gigantes de la vaina tendinosa",
+                        "quiste de inclusión epidérmica",
+                        "tumor glómico",
+                        "schwannoma",
+                        "encondroma",
+                        "metástasis."
+                    ],
+                    "TEMAS": [
+                        "Tema 13. Fisiopatología tendinosa y sistemas de deslizamiento."
+                    ],
+                    "TIPO_DOCUMENTO": "Lámina didáctica",
+                    "PATOLOGIAS": [
+                        "Ganglión",
+                        "tumor de células gigantes de la vaina tendinosa",
+                        "quiste de inclusión epidérmica",
+                        "tumor glómico",
+                        "schwannoma",
+                        "encondroma."
+                    ],
+                    "CURSO": "cuarto",
+                    "FUENTE": "Traumatología(1).pdf, Tema 13, apartado «Tumores de la mano»."
+                }
+            },
+            {
+                "nombre": "Traumatología.pdf",
+                "ruta": "infografias/Traumatología/Traumatología.pdf",
+                "metadatos": {
+                    "TITULO": "Traumatología",
+                    "DESCRIPCION": "Compendio de apuntes de Traumatología que abarca la fisiopatología y las enfermedades del tejido óseo, las infecciones osteoarticulares, las fracturas y sus complicaciones, las lesiones traumáticas y su tratamiento. Incluye contenidos de traumatología de las extremidades superiores e inferiores, pelvis, cadera y columna vertebral, así como técnicas de diagnóstico, clasificaciones y opciones terapéuticas.",
+                    "PALABRAS_CLAVE": [
+                        "traumatología",
+                        "ortopedia",
+                        "tejido óseo",
+                        "fisiopatología ósea",
+                        "fracturas",
+                        "consolidación ósea",
+                        "pseudoartrosis",
+                        "osteomielitis",
+                        "infecciones osteoarticulares",
+                        "fracturas abiertas",
+                        "politraumatismo",
+                        "lesiones traumáticas",
+                        "luxaciones",
+                        "lesiones ligamentarias",
+                        "traumatismos de extremidades",
+                        "fracturas de pelvis",
+                        "fracturas de cadera",
+                        "fracturas vertebrales",
+                        "traumatismos de columna",
+                        "tratamiento ortopédico",
+                        "tratamiento quirúrgico",
+                        "osteosíntesis",
+                        "rehabilitación."
+                    ],
+                    "TEMAS": [
+                        "Todos"
+                    ],
+                    "TIPO_DOCUMENTO": "Apuntes",
+                    "PATOLOGIAS": [
+                        "Osteomielitis aguda y crónica",
+                        "artritis séptica",
+                        "infecciones de implantes ortopédicos",
+                        "fracturas óseas",
+                        "pseudoartrosis",
+                        "fracturas abiertas",
+                        "luxaciones articulares",
+                        "lesiones ligamentarias",
+                        "fracturas de pelvis y acetábulo",
+                        "fracturas de cadera",
+                        "fracturas vertebrales",
+                        "traumatismos de extremidades",
+                        "lesiones traumáticas de columna."
+                    ],
+                    "CURSO": "Cuarto",
+                    "FUENTE": "Wuolah"
+                }
+            }
+        ]
+    }
+]

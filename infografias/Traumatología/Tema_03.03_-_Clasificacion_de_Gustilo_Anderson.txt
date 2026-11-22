@@ -1,0 +1,15 @@
+TITULO: Tema 03.03 Clasificación de Gustilo-Anderson
+
+DESCRIPCION: Lámina didáctica sobre la clasificación de las fracturas abiertas según Gustilo-Anderson. Compara las fracturas cerradas y abiertas y clasifica las fracturas abiertas en tipos I, II y III, con los subtipos IIIA, IIIB y IIIC. Recoge los criterios de tamaño de la herida, contaminación, daño de partes blandas, conminución ósea, cobertura ósea y lesión neurovascular.
+
+PALABRAS_CLAVE: fractura cerrada; fractura abierta; Gustilo-Anderson; tipo I; tipo II; tipo III; tipo IIIA; tipo IIIB; tipo IIIC; tamaño de la herida; contaminación; partes blandas; conminución ósea; cobertura ósea; reconstrucción; lesión neurovascular
+
+TEMAS: Tema 3. Estudio general de las fracturas; Clasificación de fracturas; Fracturas abiertas; Gustilo-Anderson; Lesiones de partes blandas
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: No se describen patologías específicas
+
+CURSO: cuarto
+
+FUENTE: generado IA

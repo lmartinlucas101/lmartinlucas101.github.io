@@ -1,0 +1,15 @@
+TITULO: Traumatología
+
+DESCRIPCION: Compendio de apuntes de Traumatología que abarca la fisiopatología y las enfermedades del tejido óseo, las infecciones osteoarticulares, las fracturas y sus complicaciones, las lesiones traumáticas y su tratamiento. Incluye contenidos de traumatología de las extremidades superiores e inferiores, pelvis, cadera y columna vertebral, así como técnicas de diagnóstico, clasificaciones y opciones terapéuticas.
+
+PALABRAS_CLAVE: traumatología; ortopedia; tejido óseo; fisiopatología ósea; fracturas; consolidación ósea; pseudoartrosis; osteomielitis; infecciones osteoarticulares; fracturas abiertas; politraumatismo; lesiones traumáticas; luxaciones; lesiones ligamentarias; traumatismos de extremidades; fracturas de pelvis; fracturas de cadera; fracturas vertebrales; traumatismos de columna; tratamiento ortopédico; tratamiento quirúrgico; osteosíntesis; rehabilitación.
+
+TEMAS: Todos
+
+TIPO_DOCUMENTO: Apuntes
+
+PATOLOGIAS: Osteomielitis aguda y crónica; artritis séptica; infecciones de implantes ortopédicos; fracturas óseas; pseudoartrosis; fracturas abiertas; luxaciones articulares; lesiones ligamentarias; fracturas de pelvis y acetábulo; fracturas de cadera; fracturas vertebrales; traumatismos de extremidades; lesiones traumáticas de columna.
+
+CURSO: Cuarto
+
+FUENTE: Wuolah

@@ -1,0 +1,15 @@
+TITULO: Tema 05.01 Strain y consolidación ósea
+
+DESCRIPCION: Lámina didáctica sobre la relación entre el strain o deformación del foco de fractura y la respuesta biológica durante la consolidación ósea. Explica los umbrales de deformación asociados a la estabilidad absoluta, relativa y la inestabilidad, así como sus efectos sobre la formación de tejido óseo, cartilaginoso o fibroso. Compara la consolidación directa o primaria, que requiere reducción anatómica y estabilidad absoluta y no forma callo, con la consolidación indirecta o secundaria, que se desarrolla con estabilidad relativa y formación de callo. Resume las cinco fases de esta última: hematoma, inflamatoria, reparadora o callo blando, osificación o callo duro y remodelación. Incluye factores favorables y desfavorables para la consolidación y los conceptos de osteogenicidad, osteoinducción y osteoconducción.
+
+PALABRAS_CLAVE: strain; deformación; estabilidad; compresión; consolidación; fractura; hueso; tejido; callo; hematoma; inflamación; reparación; osificación; remodelación; osteoblastos; osteoclastos; cartílago; colágeno; vascularización; osteogenicidad; osteoinducción; osteoconducción; teriparatida; tabaquismo; AINEs; corticoides; quimioterapia; quinolonas; malnutrición.
+
+TEMAS: Tema 5. Proceso de reparación de las fracturas; 1. Concepto de strain o deformación; 2. Tipos de consolidación ósea; 2.1. Fases de la consolidación indirecta; factores que influyen en la consolidación; conceptos clave de regeneración ósea.
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: no se describen patologías específicas.
+
+CURSO: cuarto
+
+FUENTE: generado IA

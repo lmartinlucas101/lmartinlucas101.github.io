@@ -1,0 +1,15 @@
+TITULO: Tema 08.01 Lesiones del cartílago articular
+
+DESCRIPCION: Lámina didáctica sobre las lesiones del cartílago articular y sus consecuencias. Explica que el cartílago articular es avascular, aneural y alinfático, por lo que tiene escasa capacidad reparativa. Diferencia las lesiones indirectas, relacionadas con la exposición articular al aire, el derrame sinovial o hemartros y los cuerpos libres articulares, de las lesiones directas, como la contusión, la abrasión, la laceración, la fractura del cartílago y la lesión osteocondral. Resume las manifestaciones clínicas, las pruebas diagnósticas —radiografía, TC, RM y artrocentesis— y las medidas terapéuticas iniciales.
+
+PALABRAS_CLAVE: cartílago articular; lesiones condrales; lesiones osteocondrales; cartílago avascular; capacidad reparativa; lesiones indirectas; lesiones directas; exposición articular al aire; derrame sinovial; hemartros; cuerpos libres articulares; contusión; abrasión; laceración; fractura del cartílago; hueso subcondral; condrocitos; dolor mecánico; limitación funcional; inestabilidad ligamentosa; radiografía; tomografía computarizada; resonancia magnética; artrocentesis; líquido sinovial; lipohemartros; inmovilización; bastones ingleses
+
+TEMAS: Tema 6
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Lesión condral; lesión osteocondral
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, pp. 54–55

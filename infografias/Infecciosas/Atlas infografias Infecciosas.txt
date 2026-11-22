@@ -1,0 +1,15 @@
+TITULO: Atlas de Enfermedades Infecciosas y Patología Autoinmune
+
+DESCRIPCION: Atlas visual de repaso médico organizado en láminas temáticas, con esquemas e ilustraciones sobre enfermedades infecciosas, sepsis, bacteriemia, fiebre, infecciones por localización, microorganismos, enfermedades víricas, infecciones oportunistas e inmunodeficiencias. Incluye también patología autoinmune, vasculitis y enfermedades reumatológicas. Presenta definiciones, etiología, manifestaciones clínicas, diagnóstico, tratamiento y datos clave para el examen MIR.
+
+PALABRAS_CLAVE: enfermedades infecciosas; atlas médico; MIR; sepsis; bacteriemia; shock séptico; endocarditis; infecciones respiratorias; tuberculosis; diarrea infecciosa; infecciones gastrointestinales; infecciones urinarias; meningitis; encefalitis; absceso cerebral; zoonosis; enfermedades vectoriales; virus; VIH; infecciones oportunistas; inmunodeficiencias; candidiasis; aspergilosis; criptococosis; enfermedades autoinmunes; lupus; síndrome antifosfolípido; artritis reumatoide; vasculitis; esclerosis sistémica; espondiloartritis; osteoporosis; fibromialgia.
+
+TEMAS: Todos; Sepsis; bacteriemia; fiebre; hipertermia; endocarditis; dispositivos; respiratorias; tuberculosis; diarreas infecciosas; colitis; infecciones intraabdominales; infecciones urinarias; infecciones del sistema nervioso central; zoonosis; enfermedades transmitidas por vectores; infecciones víricas; VIH y enfermedades oportunistas; inmunodeficiencias; micosis invasivas; artritis y enfermedades autoinmunes; vasculitis; lupus y síndrome antifosfolípido; esclerosis sistémica y espondiloartritis; osteoporosis y fibromialgia.
+
+TIPO_DOCUMENTO: láminas de estudio.
+
+PATOLOGIAS: Sepsis; shock séptico; shock tóxico; bacteriemia; endocarditis infecciosa; infecciones respiratorias; neumonía; tuberculosis; cólera; fiebre tifoidea; colitis por Clostridioides difficile; peritonitis; colangitis; colecistitis; pancreatitis; absceso intraabdominal; cistitis; pielonefritis; prostatitis; meningitis; encefalitis; absceso cerebral; fiebre botonosa mediterránea; tifus; borreliosis de Lyme; tularemia; peste; brucelosis; leptospirosis; carbunco; actinomicosis; infecciones por herpesvirus; citomegalovirus; VIH; dengue; zika; ébola; candidiasis; criptococosis; aspergilosis; artritis reumatoide; síndrome de Sjögren; dermatomiositis; polimiositis; vasculitis; enfermedad de Behçet; lupus eritematoso sistémico; síndrome antifosfolípido; esclerosis sistémica; espondiloartritis; artritis psoriásica; osteoporosis y fibromialgia.
+
+CURSO: tercero
+
+FUENTE: Generado IA

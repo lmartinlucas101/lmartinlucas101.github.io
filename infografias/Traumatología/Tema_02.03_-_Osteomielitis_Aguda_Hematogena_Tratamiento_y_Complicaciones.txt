@@ -1,0 +1,15 @@
+TITULO: Tema 02.03 Osteomielitis aguda hematógena: tratamiento y complicaciones
+
+DESCRIPCION: Lámina didáctica sobre el tratamiento médico, quirúrgico y físico de la osteomielitis aguda hematógena, su pronóstico y sus complicaciones. Resume la antibioterapia precoz tras la toma de cultivos, el tratamiento secuencial y prolongado, las indicaciones y técnicas del tratamiento quirúrgico, y las medidas físicas. Describe las complicaciones infecciosas y articulares, las alteraciones del crecimiento fisario, las fracturas, la cronificación y la trombosis venosa profunda. Incluye el absceso de Brodie como forma específica de osteomielitis subaguda, con localización tibial predominante, diagnóstico mediante biopsia y tratamiento con curetaje y antibióticos.
+
+PALABRAS_CLAVE: osteomielitis aguda hematógena; tratamiento antibiótico; antibioterapia; antibiograma; hemocultivo; proteína C reactiva; VSG; tratamiento quirúrgico; drenaje de absceso; desbridamiento; perforaciones corticales; inmovilización; pronóstico; cronificación; absceso de Brodie; osteomielitis subaguda; secuestro óseo; involucro; dismetría; hipercrecimiento; acortamiento; lesión fisaria; artritis séptica; fractura; fístula; úlcera de Marjolin; trombosis venosa profunda; curetaje; biopsia ósea
+
+TEMAS: Tema 2. Infecciones óseas inespecíficas; Osteomielitis; 2.10. Complicaciones; 2.11. Tratamiento médico; 2.12. Tratamiento quirúrgico; 2.13. Tratamiento con medidas físicas; Pronóstico; Absceso de Brodie
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Osteomielitis aguda hematógena; Osteomielitis subaguda; Absceso de Brodie; Artritis séptica; Trombosis venosa profunda; Carcinoma epidermoide
+
+CURSO: cuarto
+
+FUENTE: generado IA

@@ -1,0 +1,29 @@
+TITULO: Tema 05.03 Injertos óseos
+
+DESCRIPCION: Lámina didáctica sobre los injertos óseos y sus principales
+materiales. Explica su función en el relleno de defectos óseos y en
+procedimientos como artrodesis y artroplastias, así como sus tres
+propiedades biológicas: osteogenicidad, osteoinducción y
+osteoconducción. Compara el autoinjerto, el aloinjerto, la matriz ósea
+desmineralizada y los sustitutos sintéticos, indicando su procedencia,
+propiedades, ventajas e inconvenientes. También resume el papel de las
+proteínas morfogenéticas óseas BMP-2 y BMP-7 y las principales
+indicaciones de los injertos.
+
+PALABRAS_CLAVE: injertos óseos; autoinjerto; autólogo; aloinjerto;
+homólogo; matriz ósea desmineralizada; DBM; sustitutos sintéticos;
+osteogenicidad; osteoinducción; osteoconducción; BMP; BMP-2; BMP-7;
+factores de crecimiento; hidroxiapatita; fosfato tricálcico;
+biocerámicas; artrodesis; artroplastia; pseudoartrosis; defectos óseos;
+cresta ilíaca
+
+TEMAS: Tema 5. Proceso de reparación de las fracturas; 5.3. Injertos
+óseos
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: pseudoartrosis
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, pp. 33–34

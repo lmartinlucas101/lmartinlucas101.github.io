@@ -1,0 +1,15 @@
+TITULO: Enfermedades infecciosas
+
+DESCRIPCION: Compendio de apuntes de enfermedades infecciosas que aborda microbiología, fisiología bacteriana, diagnóstico microbiológico, tratamiento antimicrobiano y mecanismos de resistencia. Incluye el estudio de infecciones por diferentes localizaciones, sepsis, bacteriemia, fiebre e inmunodeficiencias.
+
+PALABRAS_CLAVE: enfermedades infecciosas; microbiología; bacterias; virus; hongos; parásitos; grampositivos; gramnegativos; antibióticos; antibioterapia; resistencia antimicrobiana; diagnóstico microbiológico; cultivos; PCR; sepsis; bacteriemia; fiebre; inmunodeficiencias; infecciones hospitalarias.
+
+TEMAS: Todos; Microbiología; bacteriología; diagnóstico microbiológico; antibioterapia; farmacología antimicrobiana; resistencias bacterianas; infecciones endovasculares; infecciones respiratorias; infecciones urinarias; infecciones del sistema nervioso central; sepsis; fiebre de origen desconocido; inmunología e inmunodeficiencias.
+
+TIPO_DOCUMENTO: Apuntes
+
+PATOLOGIAS: Endocarditis infecciosa; bacteriemia; sepsis; shock séptico; neumonía; bronquitis; faringoamigdalitis; sinusitis; infección del tracto urinario; pielonefritis; prostatitis; meningitis; absceso cerebral; tuberculosis; fiebre de origen desconocido; infecciones por microorganismos multirresistentes e inmunodeficiencias primarias.
+
+CURSO: tercero
+
+FUENTE: wuolah

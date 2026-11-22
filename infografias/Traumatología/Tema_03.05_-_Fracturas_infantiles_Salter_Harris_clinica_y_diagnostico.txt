@@ -1,0 +1,15 @@
+TITULO: Tema 03.05 Fracturas en el niño: Salter-Harris, clínica y diagnóstico
+
+DESCRIPCION: Lámina didáctica sobre las peculiaridades de las fracturas infantiles y la clasificación de las lesiones de la fisis según Salter-Harris. Describe los tipos I–V, la clínica, la valoración neurovascular y las pruebas de diagnóstico por imagen: radiografía, TC, RM y ecografía. Incluye pistas clínicas especiales para diferenciar la fractura de cadera de la luxación de cadera.
+
+PALABRAS_CLAVE: fracturas infantiles; fracturas en el niño; fisis; placa de crecimiento; epifisiolisis; Salter-Harris; Salter-Harris tipo I; Salter-Harris tipo II; Salter-Harris tipo III; Salter-Harris tipo IV; Salter-Harris tipo V; epífisis; metáfisis; periostio; déficit de crecimiento; deformidad angular; hematoma de Hennequin; fractura de cadera; luxación de cadera; valoración neurovascular; radiografía; tomografía computarizada; TC; resonancia magnética; RM; ecografía
+
+TEMAS: Tema 3. Estudio general de las fracturas; Fracturas infantiles; Lesiones fisarias; Clasificación de Salter-Harris; Clínica de las fracturas infantiles; Diagnóstico por imagen
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: No se describen patologías específicas
+
+CURSO: cuarto
+
+FUENTE: generado IA

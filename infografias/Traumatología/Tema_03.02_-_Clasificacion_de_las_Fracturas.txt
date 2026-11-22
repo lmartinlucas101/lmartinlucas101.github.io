@@ -1,0 +1,15 @@
+TITULO: Tema 03.02 Clasificación de las fracturas
+
+DESCRIPCION: Lámina didáctica sobre el concepto de fractura y sus criterios de clasificación. Resume la clasificación según el mecanismo o etiología, el trazo, el desplazamiento, la integridad del hueso, la comunicación con el exterior, la energía del traumatismo y la localización anatómica. Incluye la distinción entre fracturas completas e incompletas, abiertas y cerradas, y la clasificación de Gustilo-Anderson para fracturas abiertas, con sus grados y características.
+
+PALABRAS_CLAVE: fractura; clasificación; mecanismo directo; mecanismo indirecto; trazo transversal; trazo oblicuo; trazo espiral; trazo longitudinal; fractura conminuta; fractura segmentaria; desplazamiento; angulación; traslación; rotación; acortamiento; fractura completa; fractura incompleta; fractura abierta; fractura cerrada; alta energía; baja energía; epífisis; metáfisis; diáfisis; Gustilo-Anderson; pseudoartrosis; infección; lesión de partes blandas
+
+TEMAS: Tema 3. Estudio general de las fracturas; Clasificación de fracturas; Mecanismo de generación; Lesiones de partes blandas; Clasificación de Gustilo-Anderson; Intensidad del traumatismo; Anatomía del hueso
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: No se describen patologías específicas
+
+CURSO: cuarto
+
+FUENTE: generado IA

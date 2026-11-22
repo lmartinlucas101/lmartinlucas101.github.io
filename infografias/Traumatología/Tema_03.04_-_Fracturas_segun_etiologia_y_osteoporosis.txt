@@ -1,0 +1,15 @@
+TITULO: Tema 03.04 Fracturas según su etiología y osteoporosis
+
+DESCRIPCION: Lámina didáctica sobre la clasificación de las fracturas según su etiología: habituales, patológicas y por estrés o fatiga. Incluye la definición, los tipos primarios y secundarios, la clínica, las localizaciones más frecuentes, las consecuencias asociadas y el tratamiento de la osteoporosis. Resume las medidas preventivas y el tratamiento en la mujer posmenopáusica según el riesgo de fractura.
+
+PALABRAS_CLAVE: fracturas; etiología; fracturas habituales; fracturas patológicas; fracturas por estrés; fracturas por fatiga; osteoporosis; osteoporosis primaria; osteoporosis secundaria; osteoporosis idiopática; osteoporosis posmenopáusica; osteoporosis senil; masa ósea; fractura vertebral; fractura de cadera; fractura del extremo distal del antebrazo; fractura del extremo proximal del húmero; prevención de caídas; actividad física; calcio; vitamina D; bifosfonatos; denosumab; teriparatida
+
+TEMAS: Tema 3. Estudio general de las fracturas; Etiología de las fracturas; Fracturas patológicas; Fracturas por estrés; Osteoporosis; Tratamiento de la osteoporosis
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Osteoporosis; necrosis avascular
+
+CURSO: cuarto
+
+FUENTE: generado IA

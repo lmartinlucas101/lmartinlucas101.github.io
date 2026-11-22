@@ -1,0 +1,15 @@
+TITULO: Tema 03.01 Biomecánica y conceptos básicos
+
+DESCRIPCION: Lámina didáctica sobre los fundamentos biomecánicos del hueso y su aplicación en las fracturas. Define la fuerza (stress) y la deformación (strain), explica el módulo de Young y la relación entre fuerza y deformación, y resume la elasticidad, la anisotropía y el comportamiento viscoelástico del hueso. Describe los tipos de esfuerzos —tracción, compresión, flexión, cizallamiento y torsión—, las propiedades de la deformación elástica y plástica, los límites elástico y de rotura, la resistencia y la tenacidad. Incluye la aplicación de estos conceptos a los mecanismos de producción y patrones de fractura.
+
+PALABRAS_CLAVE: biomecánica; fuerza; stress; deformación; strain; módulo de Young; elasticidad; rigidez; anisotropía; viscoelasticidad; tracción; compresión; flexión; cizallamiento; torsión; deformación elástica; deformación plástica; límite elástico; límite de rotura; resistencia ósea; tenacidad; fractura; avulsión; aplastamiento; fractura transversal; fractura en cuña; fractura oblicua; fractura espiroidea
+
+TEMAS: Tema 3. Estudio general de las fracturas; Generalidades; Factores extrínsecos; Fuerza (stress); Deformación (strain); Módulo de Young; Propiedades intrínsecas del hueso; Anisotropía; Comportamiento viscoelástico; Clasificación de las fracturas según el mecanismo de generación
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: No se describen patologías específicas
+
+CURSO: cuarto
+
+FUENTE: generado IA

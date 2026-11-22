@@ -1,0 +1,15 @@
+TITULO: Tema 05.02 Fases y factores de la consolidación ósea
+
+DESCRIPCION: Lámina didáctica sobre la consolidación indirecta o secundaria de las fracturas. Describe sus características y las cinco fases secuenciales y solapadas del proceso: hematoma inmediato, fase inflamatoria, fase reparadora o formación del callo blando, osificación o formación del callo duro y remodelación. Resume los cambios celulares y tisulares de cada fase, incluyendo la quimiotaxis, la angiogénesis, la formación del coágulo de fibrina, la formación de cartílago y la calcificación del callo. También recoge los factores favorables y desfavorables que influyen en la consolidación, y destaca la estabilidad del foco de fractura y la vascularización como factores clave.
+
+PALABRAS_CLAVE: consolidación; fractura; callo; hematoma; inflamación; reparación; remodelación; quimiotaxis; angiogénesis; macrófagos; neutrófilos; plaquetas; citoquinas; fibrina; necrosis; oxígeno; condroblastos; osteoblastos; osteoclastos; cartílago; colágeno; osificación; calcificación; vascularización; estabilidad; tabaquismo; diabetes; AINEs; corticoides; quimioterapia; quinolonas; malnutrición; teriparatida
+
+TEMAS: Tema 5. Proceso de reparación de las fracturas; 2.1. Fases de la consolidación indirecta; 2.2. Factores que influyen en la consolidación
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: no se describen patologías específicas
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, pp. 31–32

@@ -1,0 +1,15 @@
+TITULO: Tema 06.01 Epidemiología de los tumores del aparato locomotor
+
+DESCRIPCION: Lámina didáctica sobre la epidemiología de los tumores óseos y de partes blandas del aparato locomotor. Resume su distribución anatómica, destacando que la mayoría aparecen en las extremidades, que una parte importante de los tumores de las extremidades se localiza en los miembros inferiores y que casi la mitad de los tumores del miembro inferior se sitúa alrededor de la rodilla. Describe las asociaciones señaladas por sexo, la ausencia de influencia general de la raza (con la excepción del tumor de Ewing) y el pulmón como localización más frecuente de las metástasis de los tumores óseos malignos.
+
+PALABRAS_CLAVE: tumores; tumores óseos; tumores de partes blandas; aparato locomotor; epidemiología; extremidades; miembros inferiores; rodilla; sexo; varones; mujeres; raza; metástasis; pulmón; osteosarcoma; condrosarcoma; Ewing; células gigantes; quistes óseos
+
+TEMAS: Tema 6
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Osteosarcoma; condrosarcoma; tumor de Ewing; tumor de células gigantes; quistes óseos
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, p. 39

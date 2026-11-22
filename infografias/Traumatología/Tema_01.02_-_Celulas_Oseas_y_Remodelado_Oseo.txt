@@ -1,0 +1,15 @@
+TITULO: Tema 01.02 Células óseas y remodelado óseo
+
+DESCRIPCION: Lámina didáctica sobre las células del tejido óseo y el proceso de remodelación. Describe la línea osteoformadora, formada por células osteoprogenitoras, osteoblastos y osteocitos, y la línea osteodestructora, representada por los osteoclastos. Resume la síntesis de osteoide y la regulación de su mineralización por los osteoblastos, la función de mantenimiento y regulación metabólica de los osteocitos, y la resorción ósea realizada por los osteoclastos mediante acidificación y degradación de la matriz. Incluye la regulación de la actividad osteoclástica por RANK-L, calcitonina y bifosfonatos, así como las fases del ciclo de remodelado: resorción, formación, mineralización y hueso remodelado. Expone el equilibrio continuo entre formación y resorción ósea.
+
+PALABRAS_CLAVE: células óseas; células osteoprogenitoras; línea osteoformadora; línea osteodestructora; osteoblastos; osteocitos; osteoclastos; osteoide; mineralización; resorción ósea; lagunas de Howship; RANK-L; calcitonina; bifosfonatos; remodelado óseo; modelado óseo; formación ósea; matriz mineralizada; metabolismo óseo.
+
+TEMAS: Tema 1. Fisiopatología del tejido óseo; 2.3. Componente celular; 8. Regeneración ósea; 8.1. Modelamiento y remodelamiento; A) Regeneración ósea adaptativa; B) Remodelación ósea; Factores que influyen en la remodelación.
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: No se describen patologías específicas.
+
+CURSO: cuarto
+
+FUENTE: generado IA

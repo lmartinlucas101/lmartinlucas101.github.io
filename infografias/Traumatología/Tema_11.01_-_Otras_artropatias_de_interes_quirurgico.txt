@@ -1,0 +1,15 @@
+TITULO: Tema 11.01 Otras artropatías de interés quirúrgico
+
+DESCRIPCION: Lámina sobre las principales artropatías de interés quirúrgico. Resume la artritis reumatoide, psoriásica y gotosa, la espondilitis anquilosante, la artrosis y las distrofias sinoviales benignas, con sus características clínicas y hallazgos principales.
+
+PALABRAS_CLAVE: artritis reumatoide; artritis psoriásica; artritis gotosa; espondilitis anquilosante; artrosis; sinovitis villonodular pigmentada; condromatosis sinovial; podagra; HLA-B27; lápiz en copa; osteofitos; anquilosis.
+
+TEMAS: Tema 11. Otras artropatías de interés quirúrgico; artritis reumatoide; artritis psoriásica; artritis gotosa; espondilitis anquilosante; artrosis; distrofias sinoviales benignas.
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Artritis reumatoide; artritis psoriásica; artritis gotosa; espondilitis anquilosante; artrosis; sinovitis villonodular pigmentada; condromatosis sinovial.
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, pp. 73–79.

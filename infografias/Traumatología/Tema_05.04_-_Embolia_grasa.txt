@@ -1,0 +1,31 @@
+TITULO: Tema 05.04 Embolia grasa
+
+DESCRIPCION: Lámina didáctica sobre el embolismo graso tras fracturas de
+huesos largos o traumatismos. Describe su concepto, latencia de 12–72
+horas y manifestaciones clínicas, incluida la hipotermia como primera
+manifestación. Resume los criterios diagnósticos de Gurd, las pruebas
+complementarias (pulsioximetría, analítica, gasometría arterial,
+radiografía de tórax, TC de tórax y RM), el diagnóstico diferencial y el
+tratamiento basado en soporte respiratorio, ingreso en UCI cuando se
+precisa y tratamiento definitivo precoz de la fractura.
+
+PALABRAS_CLAVE: embolia grasa; embolismo graso; fractura; huesos largos;
+latencia; hipoxemia; hipotermia; petequias; criterios de Gurd;
+insuficiencia respiratoria; depresión del SNC; trombocitopenia; anemia;
+hipocalcemia; gasometría arterial; pulsioximetría; radiografía de tórax;
+TC de tórax; resonancia magnética; soporte respiratorio; ventilación
+mecánica; PEEP; UCI
+
+TEMAS: Tema 5. Proceso de reparación y complicaciones de las fracturas;
+embolia grasa
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Embolia grasa; contusión pulmonar; edema pulmonar;
+tromboembolismo pulmonar; neumonía por aspiración; hemorragia cerebral;
+tumores del sistema nervioso central; meningitis; púrpura trombótica;
+púrpura trombocitopénica; púrpura idiopática; leucemia
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, pp. 35–36

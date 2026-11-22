@@ -1,0 +1,15 @@
+TITULO: Tema 12.01 Necrosis ósea avascular
+
+DESCRIPCION: Lámina sobre la osteonecrosis o necrosis ósea avascular. Resume su definición, etiopatogenia, histología, diagnóstico, localizaciones, causas no traumáticas, osteocondrosis del crecimiento y tratamiento.
+
+PALABRAS_CLAVE: osteonecrosis; necrosis avascular; infarto óseo; necrosis isquémica; cabeza femoral; RM; gammagrafía; osteocondrosis; Perthes; Köhler; Kienböck.
+
+TEMAS: Tema 12. Necrosis ósea avascular; definición; etiopatogenia; diagnóstico; localizaciones y tipos; causas no traumáticas; osteocondrosis del crecimiento; tratamiento.
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Necrosis ósea avascular; osteonecrosis; infarto óseo; osteocondrosis del crecimiento; enfermedad de Perthes; enfermedad de Panner; Freiberg; Köhler; Kienböck.
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, pp. 80–85.

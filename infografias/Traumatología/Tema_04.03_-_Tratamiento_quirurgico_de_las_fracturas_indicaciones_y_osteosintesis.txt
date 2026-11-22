@@ -1,0 +1,15 @@
+TITULO: Tema 04.03 Tratamiento quirúrgico de las fracturas: indicaciones y osteosíntesis
+
+DESCRIPCION: Lámina didáctica sobre las indicaciones del tratamiento quirúrgico de las fracturas y las principales técnicas de osteosíntesis. Resume cuándo está indicada la cirugía —fracturas inestables o con fracaso de reducción cerrada, fracturas que requieren reducción anatómica y movilización precoz, epifisiolisis Salter-Harris III y IV, lesiones vasculares asociadas y fracturas patológicas o periprotésicas—. Describe placas y tornillos, clavos intramedulares, tornillos y fijadores externos, su elección según el tipo de fractura y las ventajas del tratamiento quirúrgico.
+
+PALABRAS_CLAVE: tratamiento quirúrgico de las fracturas; indicaciones quirúrgicas; osteosíntesis; placas; tornillos; clavos intramedulares; fijador externo; fracturas inestables; reducción cerrada; reducción anatómica; movilización precoz; fracturas articulares; fracturas metafisarias; fracturas diafisarias; fractura de cuello femoral; fracturas abiertas; partes blandas comprometidas; politraumatizado; epifisiolisis; Salter-Harris III; Salter-Harris IV; lesiones vasculares; fracturas patológicas; fracturas periprotésicas; estabilización; consolidación ósea
+
+TEMAS: Tema 3. Estudio general de las fracturas; Tratamiento quirúrgico de las fracturas; Indicaciones del tratamiento quirúrgico; Técnicas de osteosíntesis; Placas y tornillos; Clavos intramedulares; Fijación externa; Elección del método de osteosíntesis según la fractura; Ventajas del tratamiento quirúrgico
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Fracturas; fracturas inestables; fracturas articulares; fracturas abiertas; fracturas patológicas; fracturas periprotésicas; fracturas del cuello femoral; epifisiolisis Salter-Harris tipo III y IV
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, pp. 26–28

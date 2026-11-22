@@ -1,0 +1,15 @@
+TITULO: Tema 10.01 Traumatismos articulares
+
+DESCRIPCION: Contusión articular, esguince, luxación, heridas articulares y mordeduras; diagnóstico, tratamiento y secuelas.
+
+PALABRAS_CLAVE: traumatismos articulares; contusión; esguince; luxación; heridas; mordeduras; anquilosis
+
+TEMAS: Tema 10.01
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Contusión articular; esguince; luxación; herida articular; mordedura; contractura; anquilosis
+
+CURSO: cuarto
+
+FUENTE: Traumatología.pdf, Tema 10

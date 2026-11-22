@@ -1,0 +1,15 @@
+TITULO: Tema 04.05 Manejo inicial y cobertura de las fracturas abiertas
+
+DESCRIPCION: Lámina didáctica sobre el manejo inicial de las fracturas abiertas. Resume la valoración primaria y el control de la hemorragia, la antibioterapia precoz, la profilaxis antitetánica, la inmovilización provisional y la cura estéril. Describe el desbridamiento quirúrgico de Friedrich, sus pasos principales, la estabilización de la fractura según la clasificación de Gustilo-Anderson y las opciones de cobertura de la herida mediante cierre primario, cierre diferido o colgajos.
+
+PALABRAS_CLAVE: fractura abierta; manejo inicial; urgencias; valoración primaria; ATLS; control de la hemorragia; antibioterapia precoz; profilaxis antitetánica; inmovilización provisional; cura estéril; desbridamiento de Friedrich; Gustilo-Anderson; estabilización de la fractura; osteosíntesis; fijador externo; cierre primario; cierre diferido; cobertura con colgajos.
+
+TEMAS: Tema 4. Tratamiento de las fracturas; 3. Tratamiento de fracturas abiertas; 3.1. Estabilización y cobertura.
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Fractura abierta.
+
+CURSO: cuarto
+
+FUENTE: generado IA

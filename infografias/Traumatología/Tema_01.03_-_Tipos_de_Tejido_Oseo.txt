@@ -1,0 +1,15 @@
+TITULO: Tema 01.03 Tipos de tejido óseo
+
+DESCRIPCION: Lámina didáctica sobre la organización microscópica y macroscópica del tejido óseo. En la clasificación microscópica compara el hueso fibrilar o primitivo, con colágeno grueso y desorganizado, y el hueso laminar o maduro, organizado en láminas y osteonas. En la clasificación macroscópica diferencia el hueso esponjoso o trabecular, que representa aproximadamente el 20% de la masa ósea y presenta vascularización y recambio elevados, del hueso compacto o cortical, que representa aproximadamente el 80%, presenta sistema haversiano y menor recambio. También identifica la distribución de estos tejidos en epífisis, metáfisis y diáfisis.
+
+PALABRAS_CLAVE: tejido óseo; hueso fibrilar; hueso primitivo; hueso laminar; hueso maduro; osteonas; sistema de Havers; láminas concéntricas; hueso esponjoso; hueso trabecular; hueso compacto; hueso cortical; recambio óseo; vascularización ósea; epífisis; metáfisis; diáfisis; anisotropía
+
+TEMAS: Tema 1. Fisiopatología del tejido óseo; 3. Tipos de tejido óseo; 3.1. Microscópicamente; 3.2. Macroscópicamente; 4. Partes del hueso
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: No se describen patologías específicas
+
+CURSO: cuarto
+
+FUENTE: generado IA

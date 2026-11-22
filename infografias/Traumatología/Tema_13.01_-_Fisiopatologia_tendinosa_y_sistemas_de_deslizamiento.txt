@@ -1,0 +1,15 @@
+TITULO: Tema 13.01 Fisiopatología tendinosa y sistemas de deslizamiento
+
+DESCRIPCION: Lámina sobre la función, composición y arquitectura del tendón. Resume los sistemas de deslizamiento, la entesis, la biomecánica, la reparación tendinosa y las lesiones agudas y tendinopatías crónicas.
+
+PALABRAS_CLAVE: tendón; tenocitos; colágeno; entesis; paratenon; vaina tendinosa; poleas; reparación tendinosa; tendinopatía; rotura tendinosa.
+
+TEMAS: Tema 13. Fisiopatología tendinosa y sistemas de deslizamiento.
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Lesiones tendinosas agudas; rotura tendinosa; tendinopatías crónicas; tendinosis; paratendinitis.
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, pp. 86–88.

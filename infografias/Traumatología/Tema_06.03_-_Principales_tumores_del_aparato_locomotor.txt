@@ -1,0 +1,15 @@
+TITULO: Tema 06.03 Principales tumores del aparato locomotor
+
+DESCRIPCION: Lámina didáctica sobre los principales tumores óseos y de partes blandas del aparato locomotor. Resume las características clínicas y radiológicas, la localización habitual, la edad de presentación, el comportamiento biológico y el tratamiento de distintas lesiones, entre ellas tumores benignos, tumores malignos y metástasis óseas. Incluye osteoma osteoide, quistes óseos, condroblastoma, tumor de células gigantes, osteocondroma, condromas, condrosarcoma, osteosarcoma, sarcoma de Ewing, metástasis óseas, displasia fibrosa y sarcomas de partes blandas.
+
+PALABRAS_CLAVE: tumores óseos; tumores de partes blandas; aparato locomotor; osteoma osteoide; quiste óseo esencial; quiste óseo aneurismático; condroblastoma; tumor de células gigantes; osteoclastoma; osteocondroma; condromas; condrosarcoma; osteosarcoma; sarcoma de Ewing; metástasis óseas; displasia fibrosa; rabdomiosarcoma; sarcoma pleomórfico; lesiones benignas; lesiones malignas; patrón radiológico; calcificaciones; triángulo de Codman; reacción perióstica; pulmón; pelvis; fémur
+
+TEMAS: Tema 6
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Osteoma osteoide; quiste óseo esencial; quiste óseo aneurismático; condroblastoma; tumor de células gigantes; osteocondroma; condroma; condrosarcoma; osteosarcoma; sarcoma de Ewing; metástasis óseas; displasia fibrosa; rabdomiosarcoma; sarcoma pleomórfico
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, pp. 44–47

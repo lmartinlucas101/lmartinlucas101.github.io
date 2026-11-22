@@ -1,0 +1,15 @@
+TITULO: Tema 02.05 Infección de prótesis y material de osteosíntesis
+
+DESCRIPCION: Lámina didáctica sobre la infección osteoarticular relacionada con implantes ortopédicos, como prótesis articulares y material de osteosíntesis. Expone la definición y la asociación con la formación de biofilm, la epidemiología y los factores de riesgo, los principales agentes microbiológicos y el diagnóstico clínico, analítico, por imagen y mediante confirmación microbiológica. Resume el tratamiento combinado con cirugía y antibioterapia, incluyendo el desbridamiento con retención del implante, el recambio en uno o dos tiempos y la retirada definitiva en casos seleccionados.
+
+PALABRAS_CLAVE: infección de prótesis; infección periprotésica; infección de material de osteosíntesis; implante ortopédico; biofilm; Staphylococcus aureus; estafilococos coagulasa negativos; Staphylococcus epidermidis; estreptococos; enterococos; Pseudomonas; bacterias gramnegativas; anaerobios; VSG; proteína C reactiva; PCR; radiografía; gammagrafía; resonancia magnética; artrocentesis; cultivo intraoperatorio; antibioterapia; desbridamiento; retención del implante; recambio protésico; recambio en un tiempo; recambio en dos tiempos; retirada del implante
+
+TEMAS: Tema 2. Infecciones óseas inespecíficas; Infección de implantes; 1. Epidemiología; 2. Etiología; 3. Clínica y diagnóstico; 4. Tratamiento; 5. Prevención
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Infección de prótesis articular; Infección de material de osteosíntesis
+
+CURSO: cuarto
+
+FUENTE: generado IA

@@ -1,0 +1,15 @@
+TITULO: Tema 09.01 Artritis séptica
+
+DESCRIPCION: Lámina didáctica sobre la artritis séptica. Resume su concepto, formas clínicas, epidemiología, factores de riesgo y etiología. Explica las vías de acceso de los gérmenes, la patogenia y evolución del daño articular, las manifestaciones clínicas, el diagnóstico —con artrocentesis urgente— y el tratamiento mediante drenaje, antibioterapia y medidas de inmovilización y movilización.
+
+PALABRAS_CLAVE: artritis séptica; infección articular; sinovial; derrame articular; Staphylococcus aureus; vías hematógena y directa; factores de riesgo; artrocentesis; líquido sinovial; tinción de Gram; cultivo; hemocultivos; PCR; VSG; diagnóstico diferencial; drenaje articular; antibioterapia; lavado artroscópico; prótesis articular
+
+TEMAS: Tema 6
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Artritis séptica
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, pp. 56–60

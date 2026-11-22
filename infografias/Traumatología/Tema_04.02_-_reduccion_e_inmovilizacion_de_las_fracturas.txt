@@ -1,0 +1,15 @@
+TITULO: Tema 04.02 Reducción e inmovilización de las fracturas
+
+DESCRIPCION: Lámina didáctica sobre los objetivos y métodos de reducción de las fracturas. Explica la reducción cerrada y abierta, así como la estabilización mediante yeso, férula moldeable y vendaje. Describe la tracción continua temporal y sus modalidades por gravedad, cutánea o blanda y transesquelética. Resume las indicaciones de tratamiento quirúrgico y los principios para recuperar la relación anatómica, mantener la reducción, disminuir la movilidad de los fragmentos y favorecer la consolidación.
+
+PALABRAS_CLAVE: reducción de fracturas; reducción cerrada; reducción abierta; relación anatómica; estabilización; inmovilización; yeso; férula moldeable; vendaje; tracción continua; tracción por gravedad; tracción cutánea; tracción blanda; tracción transesquelética; consolidación ósea; tratamiento quirúrgico; movilización precoz; lesión vascular
+
+TEMAS: Tema 4. Tratamiento de las fracturas; Objetivos de la reducción; Reducción cerrada; Reducción abierta; Estabilización de las fracturas; Métodos de estabilización no quirúrgicos; Yeso; Férula moldeable; Vendaje; Tracción continua; Tracción por gravedad; Tracción cutánea; Tracción transesquelética; Indicaciones del tratamiento quirúrgico
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Fracturas epifisarias de fémur; fracturas de pelvis; fracturas de acetábulo; fracturas de tibia; fracturas articulares; fracturas de cadera; fracturas inestables; fracturas abiertas; fracturas patológicas; fracturas periprotésicas; epifisiolisis Salter-Harris tipo III; epifisiolisis Salter-Harris tipo IV; lesiones vasculares asociadas
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, pp. 25–26

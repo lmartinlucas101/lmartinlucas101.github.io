@@ -1,0 +1,15 @@
+TITULO: Tema 02.02 Osteomielitis aguda hematógena: clínica y diagnóstico
+
+DESCRIPCION: Lámina didáctica sobre la presentación clínica y el diagnóstico de la osteomielitis aguda hematógena. Resume el inicio brusco, la fiebre alta, el dolor inflamatorio persistente y los signos locales, así como las particularidades en recién nacidos y lactantes. Describe los hallazgos de laboratorio, incluidos VSG, leucocitosis, lipemia y lipuria, PCR, hemocultivos y estudio bacteriológico e histopatológico por punción-aspiración. Expone la cronología de los cambios radiológicos y las pruebas de imagen, con la resonancia magnética como técnica de elección, además de los criterios de certeza diagnóstica, el diagnóstico diferencial y las complicaciones.
+
+PALABRAS_CLAVE: osteomielitis aguda hematógena; clínica; fiebre; dolor óseo; tumefacción; eritema; VSG; leucocitosis; proteína C reactiva; PCR; hemocultivo; punción-aspiración; biopsia ósea; tinción de Gram; radiografía; resonancia magnética; tomografía computarizada; gammagrafía ósea; ecografía; secuestro óseo; absceso subperióstico; involucro; diagnóstico diferencial; complicaciones
+
+TEMAS: Tema 2. Infecciones óseas inespecíficas; Osteomielitis; 2.5. Clínica; 2.6. Diagnóstico de laboratorio; 2.7. Diagnóstico por imagen; 2.8. Criterios diagnósticos; 2.9. Diagnóstico diferencial; 2.10. Complicaciones
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Osteomielitis aguda hematógena; Artritis séptica; Fiebre reumática; Artritis reumatoide; Sarcoma de Ewing; Artritis bacteriana; Sinovitis transitoria de cadera; Carcinoma epidermoide
+
+CURSO: cuarto
+
+FUENTE: generado IA

@@ -1,0 +1,15 @@
+TITULO: Tema 02.01 Osteomielitis aguda hematógena: etiología y etiopatogenia
+
+DESCRIPCION: Lámina didáctica sobre la osteomielitis y, en particular, la forma aguda hematógena. Incluye la definición y clasificación según vía de infección, tiempo de evolución y respuesta inflamatoria; la epidemiología y las localizaciones habituales; los factores predisponentes; los agentes etiológicos y su asociación con grupos de edad y condiciones clínicas; y la secuencia etiopatogénica en tres fases: vascular, de desarrollo y de difusión. Resume también la evolución natural, con posibilidad de abscesos, secuestro óseo e involucro.
+
+PALABRAS_CLAVE: osteomielitis; osteomielitis aguda hematógena; osteomielitis crónica; infección ósea; infección hematógena; infección por contigüidad; contaminación directa; etiología bacteriana; Staphylococcus aureus; bacteriemia; metáfisis; huesos largos; absceso subperióstico; secuestro óseo; involucro; necrosis ósea; espondilodiscitis; osteomielitis vertebral; inmunodepresión; drepanocitosis; Salmonella; Pseudomonas aeruginosa; Serratia; Escherichia coli
+
+TEMAS: Tema 2. Infecciones óseas inespecíficas; Osteomielitis; 1. Clasificación; 2. Epidemiología; 3. Etiología; 4. Etiopatogenia
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Osteomielitis aguda hematógena; Osteomielitis crónica; Espondilodiscitis
+
+CURSO: cuarto
+
+FUENTE: generado IA

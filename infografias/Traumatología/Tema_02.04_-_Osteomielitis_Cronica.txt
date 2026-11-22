@@ -1,0 +1,15 @@
+TITULO: Tema 02.04 Osteomielitis crónica
+
+DESCRIPCION: Lámina didáctica sobre la osteomielitis crónica, definida como un proceso inflamatorio infeccioso del hueso y la médula ósea de más de 6 semanas de evolución. Resume sus causas, incluida la evolución desfavorable de una osteomielitis aguda, la contaminación directa y la infección por contigüidad; la clínica prolongada con quiescencia y reagudizaciones; la etiología microbiológica, con predominio de Staphylococcus aureus y mayor frecuencia de infecciones polimicrobianas, gramnegativas y anaerobias; y los hallazgos anatomopatológicos característicos, como secuestro, involucro, cloaca, fístula y esclerosis periférica. Incluye las pruebas de imagen, el diagnóstico, el tratamiento antibiótico prolongado y quirúrgico, y el pronóstico.
+
+PALABRAS_CLAVE: osteomielitis crónica; infección ósea; infección de médula ósea; osteomielitis postraumática; infección por contigüidad; contaminación directa; Staphylococcus aureus; infección polimicrobiana; bacterias gramnegativas; anaerobios; biofilm; secuestro óseo; involucro; cloaca; fístula ósea; esclerosis ósea; radiografía; tomografía computarizada; resonancia magnética; cultivo óseo; antibiograma; biopsia ósea; desbridamiento; exéresis de secuestro; antibioterapia prolongada; cemento de PMMA; reconstrucción ósea; autoinjerto; aloinjerto; osteogénesis por distracción
+
+TEMAS: Tema 2. Infecciones óseas inespecíficas; 1. Clasificación; 3. Osteomielitis crónica; 3.1. Clínica; 3.2. Anatomía patológica; 3.3. Tratamiento
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Osteomielitis crónica
+
+CURSO: cuarto
+
+FUENTE: generado IA

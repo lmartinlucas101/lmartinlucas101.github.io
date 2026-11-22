@@ -1,0 +1,15 @@
+TITULO: Tema 13.04 - Tendinopatías de la mano: deformidades
+
+DESCRIPCION: Lámina sobre las deformidades de los dedos en cuello de cisne, boutonnière y martillo, con sus lesiones tendinosas y posiciones articulares características.
+
+PALABRAS_CLAVE: tendinopatías de la mano; dedo en cuello de cisne; dedo en boutonnière; dedo en martillo; IFP; IFD; placa volar; bandeleta central del extensor.
+
+TEMAS: Tema 13. Fisiopatología tendinosa y sistemas de deslizamiento.
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Dedo en cuello de cisne; dedo en boutonnière; dedo en martillo.
+
+CURSO: Cuarto
+
+FUENTE: Traumatología(1).pdf, Tema 13, apartado 11 (Tendinopatías de la mano).

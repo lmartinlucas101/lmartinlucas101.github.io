@@ -1,0 +1,15 @@
+TITULO: Tema 13.05 Tumores de la mano
+
+DESCRIPCION: Lámina sobre los principales tumores y lesiones pseudotumorales de la mano, en su mayoría benignos. Incluye ganglión, tumor de células gigantes de la vaina tendinosa, quiste de inclusión epidérmica, tumor glómico, schwannoma y tumores óseos.
+
+PALABRAS_CLAVE: tumores de la mano; ganglión; quiste sinovial; tumor de células gigantes de la vaina tendinosa; quiste de inclusión epidérmica; tumor glómico; schwannoma; encondroma; metástasis.
+
+TEMAS: Tema 13. Fisiopatología tendinosa y sistemas de deslizamiento.
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Ganglión; tumor de células gigantes de la vaina tendinosa; quiste de inclusión epidérmica; tumor glómico; schwannoma; encondroma.
+
+CURSO: cuarto
+
+FUENTE: Traumatología(1).pdf, Tema 13, apartado «Tumores de la mano».

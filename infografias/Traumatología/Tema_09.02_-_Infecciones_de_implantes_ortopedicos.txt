@@ -1,0 +1,15 @@
+TITULO: Tema 09.02 Infecciones de implantes ortopédicos
+
+DESCRIPCION: Lámina didáctica sobre las infecciones de implantes ortopédicos. Explica la formación del biofilm, la clínica y el diagnóstico mediante artrocentesis, cultivos intraoperatorios y sonicación. Resume el tratamiento agudo y crónico, incluida la posible retirada del implante.
+
+PALABRAS_CLAVE: infección de implantes; biofilm; Staphylococcus epidermidis; artrocentesis; líquido sinovial; radiografía; cultivos intraoperatorios; sonicación; desbridamiento; irrigación; cepillado del implante; antibioterapia; retirada del implante
+
+TEMAS: Tema 6
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Infección de implantes ortopédicos
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, p. 61

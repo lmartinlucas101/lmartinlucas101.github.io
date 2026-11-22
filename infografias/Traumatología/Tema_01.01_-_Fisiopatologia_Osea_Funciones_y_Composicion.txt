@@ -1,0 +1,15 @@
+TITULO: Tema 01.01 Fisiopatología ósea: funciones y composición del hueso
+
+DESCRIPCION: Lámina didáctica sobre las funciones mecánicas y biológicas del hueso y su composición. Resume la función protectora, de sostén y dinámica del esqueleto, así como el depósito de minerales, la homeostasis del calcio y la hematopoyesis en la médula ósea roja. Explica la composición de la matriz ósea: fracción orgánica (25%), fracción inorgánica (70%) y agua (5%). Incluye el papel del colágeno tipo I en la resistencia a tracción y tensión, y del fosfato cálcico en la resistencia a compresión.
+
+PALABRAS_CLAVE: fisiopatología ósea; funciones del hueso; composición del hueso; hueso esponjoso; hueso cortical; médula ósea roja; matriz ósea; fracción orgánica; fracción inorgánica; colágeno tipo I; fosfato cálcico; hidroxiapatita; aposición-resorción; modelación-remodelación; homeostasis del calcio; hematopoyesis.
+
+TEMAS: Tema 1. Fisiopatología del tejido óseo; 1. Funciones del hueso; 2. Composición del hueso; 2.1. Matriz ósea: fracción orgánica; 2.2. Matriz ósea: fracción inorgánica.
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: No se describen patologías específicas.
+
+CURSO: cuarto
+
+FUENTE: generado IA

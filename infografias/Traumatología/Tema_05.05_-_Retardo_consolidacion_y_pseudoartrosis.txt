@@ -1,0 +1,15 @@
+TITULO: Tema 05.05 Retardo de consolidación y pseudoartrosis
+
+DESCRIPCION: Lámina sobre el retardo de consolidación y la pseudoartrosis como complicaciones de las fracturas. Define el retardo de consolidación y la ausencia de consolidación propia de la pseudoartrosis; recoge factores de riesgo, manifestaciones clínicas y diagnóstico mediante TC. Expone la clasificación de la pseudoartrosis en hipertrófica, atrófica e infectada, así como el tratamiento del retardo de consolidación mediante estímulos mecánicos y el abordaje específico de cada tipo de pseudoartrosis. En la pseudoartrosis infectada describe los cinco pilares terapéuticos: desbridamiento radical, toma de muestras para cultivo y antibiograma, estabilización, tratamiento del defecto óseo y antibioterapia específica.
+
+PALABRAS_CLAVE: fractura; consolidación; retardo; pseudoartrosis; hipertrófica; atrófica; infectada; diagnóstico; TC; tomografía; movilidad; vascularización; fijación; dinamización; osteotomía; injerto; desbridamiento; cultivos; antibiograma; fijador; antibióticos
+
+TEMAS: Tema 5
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Retardo de consolidación; pseudoartrosis hipertrófica; pseudoartrosis atrófica; pseudoartrosis infectada
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, pp. 36–37

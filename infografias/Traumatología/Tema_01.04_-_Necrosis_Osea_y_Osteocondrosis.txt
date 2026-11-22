@@ -1,0 +1,15 @@
+TITULO: Tema 01.04 Necrosis ósea y osteocondrosis
+
+DESCRIPCION: Lámina didáctica sobre los conceptos generales, el mecanismo y las localizaciones de la necrosis ósea y la osteocondrosis. Describe la osteonecrosis como muerte del tejido óseo y de la médula ósea por causa isquémica, y diferencia las osteonecrosis disecantes u osteocondritis disecantes por la afectación del hueso subcondral y del cartílago articular epifisario, con potencial degenerativo y posibilidad de cuerpos libres articulares. Resume la interrupción del flujo sanguíneo, la isquemia y la necrosis, y presenta como localizaciones citadas la cabeza femoral, el escafoides tarsiano y la cabeza del segundo metatarsiano.
+
+PALABRAS_CLAVE: necrosis ósea; osteonecrosis; necrosis avascular; necrosis aséptica; infarto óseo; isquemia ósea; osteocondrosis; osteocondritis disecante; hueso subcondral; cartílago articular; cuerpos libres articulares; cabeza femoral; escafoides tarsiano; cabeza del segundo metatarsiano; Legg-Calvé-Perthes; Köhler I; Freiberg; Köhler II
+
+TEMAS: Tema 1. Fisiopatología del tejido óseo; 9. Necrosis óseas. Relación temática complementaria: Tema 12. Necrosis ósea avascular
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Enfermedad de Legg-Calvé-Perthes; Enfermedad de Köhler I; Enfermedad de Freiberg (Köhler II)
+
+CURSO: cuarto
+
+FUENTE: generado IA

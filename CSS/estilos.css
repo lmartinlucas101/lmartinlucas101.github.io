@@ -1,174 +1,367 @@
-/* ESTILOS GENERALES */
+/* ==================================================
+   INTERNISTA GPT
+   ESTILOS GENERALES
+   ================================================== */
+
+
+/* --------------------------------------------------
+   1. VARIABLES DE DISEÑO
+
+   Centralizamos los colores para poder modificarlos
+   en toda la web desde un único lugar.
+   -------------------------------------------------- */
+
+:root {
+    --color-principal: #78101A;
+    --color-fondo: #E5DADA;
+    --color-secundario: #FFF5E1;
+    --color-superficie: #FFFFFF;
+    --color-texto: #51252A;
+}
+
+
+/* --------------------------------------------------
+   2. CONFIGURACIÓN GENERAL
+
+   Aplicamos estos estilos a toda la página.
+   -------------------------------------------------- */
+
+* {
+    box-sizing: border-box;
+}
 
 body {
-    background-color: #e5dada;
-    color: #78101a;
+    margin: 0;
+    padding: 25px;
+
+    background-color: var(--color-fondo);
+    color: var(--color-texto);
+
     font-family: Arial, sans-serif;
 }
 
+
+/* --------------------------------------------------
+   3. CABECERA PRINCIPAL
+
+   Contiene el nombre de la aplicación y su descripción.
+   -------------------------------------------------- */
+
 #header {
-
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
 
-    background-color: #78101a;
+    padding: 30px 20px;
+
+    background-color: var(--color-principal);
     color: white;
-    padding: 25px 50px;
-    border-radius: 40px;
 
-    h1 {
-        font-size: 32px;
-    }
+    border-radius: 25px;
 
-    p {
-        font-size: 16px;
-    }
+    text-align: center;
 }
 
-#categorias h2 {
+
+/* Título principal de la aplicación */
+
+#header h1 {
+    margin: 0 0 10px 0;
+    font-size: 32px;
+}
+
+
+/* Descripción situada debajo del título */
+
+#header p {
+    margin: 0;
+    font-size: 16px;
+}
+
+
+/* ==================================================
+   INTERNISTA GPT
+   COMPONENTES DE LA INTERFAZ
+   ================================================== */
+
+
+/* --------------------------------------------------
+   1. CONTENEDOR PRINCIPAL DE LAS VISTAS
+   -------------------------------------------------- */
+
+#contenido {
+    width: 100%;
+    max-width: 1200px;
+    margin: 30px auto;
+}
+
+
+/* --------------------------------------------------
+   2. TÍTULOS DE SECCIÓN
+
+   Se utilizan para identificar la pantalla actual:
+   categorías o documentos de una especialidad.
+   -------------------------------------------------- */
+
+.titulo-seccion {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    flex-direction: column;
-    flex-wrap: wrap;
-    margin-top: 20px;
 
-    background-color: #f1bcbc;
-    height: 50px;
+    margin-bottom: 25px;
 }
+
+.titulo-seccion h2 {
+    margin: 0;
+    color: var(--color-principal);
+    font-size: 28px;
+}
+
+
+/* --------------------------------------------------
+   3. CONTENEDOR DE CATEGORÍAS
+   -------------------------------------------------- */
 
 .contenedor_categorias {
     display: flex;
     justify-content: center;
-    align-items: center;
-    flex-direction: row;
+    align-items: stretch;
     flex-wrap: wrap;
+    gap: 20px;
 }
+
+
+/* --------------------------------------------------
+   4. BOTONES DE CATEGORÍAS
+   -------------------------------------------------- */
 
 .boton-categorias {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
 
-    background-color: #fff5e1;
-    color: #78101a;
-    padding: 10px 20px;
-    margin: 10px;
-    border: #78101a solid 2px;
+    width: 280px;
+    min-height: 100px;
+    padding: 20px;
+
+    background-color: var(--color-secundario);
+    color: var(--color-principal);
+
+    border: 2px solid var(--color-principal);
     border-radius: 15px;
-    text-decoration: none;
-    transition: background-color 0.3s ease;
 
-    font-size: 24px;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
 
-
-
-    &:hover {
-        background-color: #e7858f;
-
-        font-size: 24px;
-        font-weight: 600;
-
-
-    }
-
-    width: 300px;
-    height: 100px;
-}
-
-
-/* TITULO DE LA SECCIÓN */
-
-.titulo-seccion {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 5px;
-    margin-top: 30px;
-}
-
-.titulo-seccion h2 {
-    color: #78101A;
-    margin: 0;
-}
-
-/* BOTÓN VOLVER */
-
-.boton-volver {
-    width: 45px;
-    height: 45px;
-    border-radius: 50%;
-    border: 2px solid #78101A;
-    background-color: #fff5e1;
-    color: #78101A;
-    font-size: 28px;
     cursor: pointer;
 
+    transition: all 0.25s ease;
+}
+
+
+/* Efecto visual al pasar el ratón */
+
+.boton-categorias:hover {
+    background-color: var(--color-principal);
+    color: white;
+
+    transform: translateY(-3px);
+    box-shadow: 0 5px 12px rgba(0, 0, 0, 0.12);
+}
+
+
+
+/* --------------------------------------------------
+   5. TARJETAS DE DOCUMENTOS
+
+   Cada tarjeta contiene el nombre del documento
+   y sus botones de visualización y descarga.
+   -------------------------------------------------- */
+
+.tarjeta-documento {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 15px;
+
+    background-color: var(--color-superficie);
+    border: 1px solid #E5DADA;
+    border-radius: 15px;
+
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+
+/* Efecto visual al pasar el ratón */
+
+.tarjeta-documento:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 14px rgba(0, 0, 0, 0.09);
+}
+
+
+/* --------------------------------------------------
+   6. NOMBRE DEL DOCUMENTO
+
+   Puede ocupar varias líneas y adaptarse al espacio
+   disponible sin desplazar ni comprimir los botones.
+   -------------------------------------------------- */
+
+.documento-nombre {
+    flex: 1;
+    min-width: 0;
+
+    margin: 0;
+
+    color: var(--color-texto);
+    font-size: 18px;
+
+    overflow-wrap: anywhere;
+}
+
+.documento-tipo {
+    margin: 0;
+    color: rgb(213, 114, 160);
+    font-size: 12px;
+    margin-top: 12px;
+}
+
+
+
+
+/* --------------------------------------------------
+   7. CONTENEDOR DE LOS BOTONES
+
+   Mantiene los botones agrupados a la derecha.
+   Evita que se compriman cuando el título es largo.
+   -------------------------------------------------- */
+
+.tarjeta-botones {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    flex-shrink: 0;
+}
+
+
+/* --------------------------------------------------
+   8. ESTILO COMPARTIDO DE LOS BOTONES
+   -------------------------------------------------- */
+
+.boton-ver,
+.boton-descargar {
+    display: inline-flex;
     justify-content: center;
     align-items: center;
 
-    transition: all 0.3s ease;
+    padding: 10px 18px;
+
+    border: 1px solid var(--color-principal);
+    border-radius: 8px;
+
+    font-size: 14px;
+    font-weight: 600;
+
+    white-space: nowrap;
+    text-decoration: none;
+    cursor: pointer;
+
+    transition: all 0.2s ease;
 }
 
-.boton-volver:hover {
-    background-color: #78101A;
-    color: white;
-}
 
-
-
-/* DOCUMENTOS */
-
-.documento {
-    background-color: white;
-    border: 1px solid #E5DAD5;
-    border-radius: 12px;
-    padding: 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 15px;
-}
-
-.acciones-documento {
-    display: flex;
-    gap: 10px;
-}
-
-/* BOTÓN VER */
+/* Botón para visualizar el documento */
 
 .boton-ver {
-    background-color: #78101A;
-    color: white;
-    padding: 10px 18px;
-    border-radius: 8px;
-    text-decoration: none;
-    border: 1px solid #78101A;
+    background-color: var(--color-secundario);
+    color: var(--color-principal);
 }
 
-/* BOTÓN DESCARGAR */
+
+/* Botón para descargar el documento */
 
 .boton-descargar {
-    background-color: #78101A;
-    color: white;
-    padding: 10px 18px;
-    border: 1px solid #78101A;
-    border-radius: 8px;
-    text-decoration: none;
+    background-color: var(--color-secundario);
+    color: var(--color-principal);
 }
 
-/* EFECTOS */
+
+/* Efectos al pasar el ratón */
 
 .boton-ver:hover {
-    background-color: #fff5e1;
-    color: #78101A;
+    background-color: var(--color-principal);
+    color: white;
 }
 
 .boton-descargar:hover {
-    background-color: #fff5e1;
-    color: #78101A;
+    background-color: var(--color-principal);
+    color: white;
+}
+
+
+/* --------------------------------------------------
+   9. BOTÓN VOLVER A CATEGORÍAS
+
+   Permite regresar a la pantalla de especialidades.
+   Se sitúa al inicio de la sección de documentos.
+   -------------------------------------------------- */
+
+.boton-volver {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+
+    padding: 10px 16px;
+    margin-bottom: 20px;
+
+    background-color: transparent;
+    color: var(--color-principal);
+
+    border: 1px solid var(--color-principal);
+    border-radius: 8px;
+
+    font-size: 14px;
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition: all 0.2s ease;
+}
+
+
+/* Efecto al pasar el ratón */
+
+.boton-volver:hover {
+    background-color: var(--color-principal);
+    color: white;
+
+    transform: translateX(-3px);
+}
+
+/* --------------------------------------------------
+   BARRA SUPERIOR FIJA
+
+   Mantiene el botón de volver visible mientras
+   el usuario se desplaza por los documentos.
+   -------------------------------------------------- */
+
+.barra-superior {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+
+    padding: 10px 0;
+
+    background-color: var(--color-fondo);
+    border-bottom: 1px solid rgba(120, 16, 26, 0.12);
 }

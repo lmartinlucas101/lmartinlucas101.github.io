@@ -1,0 +1,15 @@
+TITULO: Tema 13.03 Tendinopatías agudas de la mano: tratamiento quirúrgico
+
+DESCRIPCION: Lámina sobre la reparación primaria de las lesiones tendinosas de la mano, sus tiempos, principios quirúrgicos y preservación de las poleas.
+
+PALABRAS_CLAVE: tendinopatías de la mano; reparación primaria; reparación diferida; WALANT; sutura tendinosa; poleas A2 y A4; flexor superficial; flexor profundo; cuerda de arco.
+
+TEMAS: Tema 13. Fisiopatología tendinosa y sistemas de deslizamiento.
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Lesiones agudas de los tendones flexores de la mano.
+
+CURSO: cuarto
+
+FUENTE: Traumatología(1).pdf, Tema 13, apartado 10 (Tendinopatías agudas de la mano).

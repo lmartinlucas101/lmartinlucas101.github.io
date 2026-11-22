@@ -1,0 +1,15 @@
+TITULO: Tema 04.01 Principios generales del tratamiento de las fracturas
+
+DESCRIPCION: Lámina didáctica sobre los objetivos y el abordaje general del tratamiento de las fracturas. Resume las fases principales —reducción, estabilización y rehabilitación—, las modalidades de reducción cerrada y abierta, los métodos de estabilización no quirúrgicos y las indicaciones de tratamiento quirúrgico. Incluye las situaciones de urgencia quirúrgica, las medidas de inmovilización y tracción, y las claves MIR sobre estabilización y tracción transesquelética.
+
+PALABRAS_CLAVE: tratamiento de las fracturas; principios generales; recuperación funcional; consolidación ósea; tratamiento conservador; tratamiento quirúrgico; urgencia quirúrgica; politraumatizado; fractura abierta; fractura-luxación; compromiso neurovascular; fractura de cadera; reducción; reducción cerrada; reducción abierta; estabilización; rehabilitación; inmovilización; yeso; férula moldeable; vendaje; tracción continua; tracción temporal; tracción por gravedad; tracción cutánea; tracción blanda; tracción transesquelética; fijación externa; indicaciones quirúrgicas; control del dolor
+
+TEMAS: Tema 3. Estudio general de las fracturas; Tratamiento de las fracturas; Objetivos del tratamiento; Abordaje general; Reducción de las fracturas; Estabilización de las fracturas; Métodos de inmovilización; Tracción; Indicaciones de tratamiento quirúrgico; Rehabilitación
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Fracturas; fracturas abiertas; fractura-luxación
+
+CURSO: cuarto
+
+FUENTE: generado IA

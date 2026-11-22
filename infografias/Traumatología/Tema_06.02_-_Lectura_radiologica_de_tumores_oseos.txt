@@ -1,0 +1,15 @@
+TITULO: Tema 06.02 Lectura radiológica de los tumores óseos
+
+DESCRIPCION: Lámina didáctica sobre la lectura radiológica de los tumores óseos. Resume las cuatro preguntas de Enneking para valorar una lesión (localización, patrón de destrucción ósea, reacción perióstica y matriz tumoral), los criterios de Lodwick y las reacciones periósticas. Describe las matrices ósea, condral y fibrosa, los signos radiológicos especiales, los falsos amigos y falsos enemigos, las claves radiológicas para diferenciar lesiones benignas y malignas y la utilidad de la resonancia magnética con gadolinio.
+
+PALABRAS_CLAVE: tumores óseos; radiología; Enneking; Lodwick; destrucción ósea; patrón geográfico; patrón moteado; patrón permeativo; reacción perióstica; capas de cebolla; sol naciente; triángulo de Codman; matriz ósea; matriz condral; matriz fibrosa; secuestro; involucro; esclerosis reactiva; expansión cortical; rotura cortical; partes blandas; resonancia magnética; gadolinio; benignidad; malignidad
+
+TEMAS: Tema 6
+
+TIPO_DOCUMENTO: Lámina didáctica
+
+PATOLOGIAS: Osteosarcoma; tumor de Ewing; condrosarcoma de bajo grado; metástasis óseas; quiste óseo simple; quiste óseo aneurismático; displasia fibrosa; granuloma eosinófilo; fibroma no osificante
+
+CURSO: cuarto
+
+FUENTE: TRAUMA.pdf, pp. 39–43
