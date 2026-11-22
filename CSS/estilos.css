@@ -139,13 +139,15 @@ body {
 .boton-categorias {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: stretch;
 
     width: 280px;
     min-height: 100px;
-    padding: 20px;
+    padding: 0;
+    overflow: hidden;
+    height: 180px;
 
-    background-color: var(--color-secundario);
+    background-color: #fbe0be;
     color: var(--color-principal);
 
     border: 2px solid var(--color-principal);
@@ -169,6 +171,14 @@ body {
 
     transform: translateY(-3px);
     box-shadow: 0 5px 12px rgba(0, 0, 0, 0.12);
+}
+
+.boton-categorias span {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
 }
 
 
@@ -385,4 +395,12 @@ body {
     color: #888;
     text-align: center;
     padding: 20px;
+}
+
+.imagen-categoria {
+    width: 50%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    flex-shrink: 0;
 }

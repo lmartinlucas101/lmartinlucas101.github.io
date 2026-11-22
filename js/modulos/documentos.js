@@ -17,7 +17,7 @@ export function mostrarDocumentos(especialidad, contenedor, alVolver) {
 
     const botonVolver = document.createElement("button");
     botonVolver.className = "boton-volver";
-    botonVolver.textContent = "← Volver a categorías";
+    botonVolver.textContent = "← Volver a especialidades";
     botonVolver.addEventListener("click", () => {
 
         alVolver();
