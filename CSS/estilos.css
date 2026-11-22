@@ -14,7 +14,7 @@
 :root {
     --color-principal: #78101A;
     --color-fondo: #E5DADA;
-    --color-secundario: #FFF5E1;
+    --color-secundario: #fff1f1;
     --color-superficie: #FFFFFF;
     --color-texto: #51252A;
 }
@@ -364,4 +364,25 @@ body {
 
     background-color: var(--color-fondo);
     border-bottom: 1px solid rgba(120, 16, 26, 0.12);
+}
+
+.buscador-documentos {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 12px 15px;
+    margin: 15px 0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    font-size: 1rem;
+}
+
+.buscador-documentos:focus {
+    outline: none;
+    border-color: var(--color-principal);
+}
+
+.mensaje-sin-resultados {
+    color: #888;
+    text-align: center;
+    padding: 20px;
 }
