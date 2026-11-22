@@ -43,40 +43,44 @@ body {
 
 /* --------------------------------------------------
    3. CABECERA PRINCIPAL
-
-   Contiene el nombre de la aplicación y su descripción.
    -------------------------------------------------- */
 
 #header {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
-    padding: 30px 20px;
-
-    background-color: var(--color-principal);
+    display: block;
+    padding: 0;
+    background: transparent;
     color: white;
-
     border-radius: 25px;
-
+    overflow: hidden;
     text-align: center;
 }
 
+/* Imágenes del encabezado */
 
-/* Título principal de la aplicación */
-
-#header h1 {
-    margin: 0 0 10px 0;
-    font-size: 32px;
+#header img {
+    display: block;
+    width: 100%;
+    height: auto;
 }
 
+/* Por defecto: ordenador */
 
-/* Descripción situada debajo del título */
+.header-movil {
+    display: none !important;
+}
 
-#header p {
-    margin: 0;
-    font-size: 16px;
+/* Pantallas de hasta 850 px */
+
+@media (max-width: 850px) {
+
+    .header-ordenador {
+        display: none !important;
+    }
+
+    .header-movil {
+        display: block !important;
+    }
+
 }
 
 
