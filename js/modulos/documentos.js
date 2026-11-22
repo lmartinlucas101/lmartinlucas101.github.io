@@ -28,7 +28,7 @@ export function mostrarDocumentos(especialidad, contenedor, alVolver) {
 
     const buscador = document.createElement("input");
     buscador.type = "search";
-    buscador.placeholder = "Buscar por título, palabra clave o patología...";
+    buscador.placeholder = "Buscar por título, palabras clave o patologías...";
     buscador.className = "buscador-documentos";
 
     const titulo = document.createElement("h2");
@@ -44,7 +44,10 @@ export function mostrarDocumentos(especialidad, contenedor, alVolver) {
 
         contenedorDocumentos.innerHTML = "";
 
-        const termino = normalizar(busqueda);
+        const grupos = normalizar(busqueda)
+            .split(",")
+            .map(grupo => grupo.trim())
+            .filter(Boolean);
 
         const documentosFiltrados = especialidad.documentos.filter(documento => {
 
@@ -56,8 +59,10 @@ export function mostrarDocumentos(especialidad, contenedor, alVolver) {
                 ...(metadatos.PATOLOGIAS || [])
             ];
 
-            return camposBusqueda.some(campo =>
-                normalizar(campo).includes(termino)
+            return grupos.every(grupo =>
+                camposBusqueda.some(campo =>
+                    normalizar(campo).includes(grupo)
+                )
             );
 
         });
